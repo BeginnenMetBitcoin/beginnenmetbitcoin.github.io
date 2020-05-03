@@ -4,7 +4,7 @@
     <title>Beginnen met Bitcoin</title>
     <description>beginnenmetbitcoin.com</description>
     <copyright>© 2020 beginnenmetbitcoin.com</copyright>
-    <generator>vim</generator>
+    <generator>Beginnen met Bitcoin</generator>
     <atom:link href="https://beginnenmetbitcoin.com/podcast.rss" rel="self" type="application/rss+xml"/>
     <link>https://beginnenmetbitcoin.com/</link>
     <itunes:new-feed-url>https://beginnenmetbitcoin.com/podcast.rss</itunes:new-feed-url>
