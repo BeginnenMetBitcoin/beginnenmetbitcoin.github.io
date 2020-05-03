@@ -3,7 +3,6 @@
   <channel>
     <title>Beginnen met Bitcoin</title>
     <description>beginnenmetbitcoin.com</description>
-    <managingEditor>noreply@beginnenmetbitcoin.com</managingEditor>
     <copyright>© 2020 beginnenmetbitcoin.com</copyright>
     <generator>vim</generator>
     <atom:link href="https://beginnenmetbitcoin.com/podcast.rss" rel="self" type="application/rss+xml"/>
@@ -38,7 +37,6 @@
       <link>https://beginnenmetbitcoin.com/#test</link>
       <title>Test Ep</title>
       <itunes:title>Test Ep</itunes:title>
-      <itunes:subtitle>Dit is een test</itunes:subtitle>
       <description><![CDATA[
           <b>Test file upload</b>
           <p>Gewoon een simpele test</p>
