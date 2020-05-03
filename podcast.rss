@@ -3,6 +3,7 @@
   <channel>
     <title>Beginnen met Bitcoin</title>
     <description>beginnenmetbitcoin.com</description>
+    <managingEditor>abellykens@pm.me (Beginnen met Bitcoin)</managingEditor>
     <copyright>© 2020 beginnenmetbitcoin.com</copyright>
     <generator>Beginnen met Bitcoin</generator>
     <atom:link href="https://beginnenmetbitcoin.com/podcast.rss" rel="self" type="application/rss+xml"/>
@@ -27,6 +28,7 @@
       <itunes:email>abellykens@pm.me</itunes:email>
       <itunes:name>Abel Lykens</itunes:name>
     </itunes:owner>
+    <itunes:author>Marnix Schoorel</itunes:author>
     <image>
       <url>https://beginnenmetbitcoin.com/assets/Logo-big-rgb.png</url>
       <link>https://beginnenmetbitcoin.com/</link>
