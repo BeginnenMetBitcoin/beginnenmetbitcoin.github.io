@@ -22,13 +22,13 @@
     </itunes:category>
     <itunes:keywords>Bitcoin,uitleg,nederland,nederlands,lightning</itunes:keywords>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-sm.png"/>
+    <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo.png"/>
     <itunes:owner>
       <itunes:email>abellykens@pm.me</itunes:email>
       <itunes:name>Abel Lykens</itunes:name>
     </itunes:owner>
     <image>
-      <url>https://beginnenmetbitcoin.com/assets/Logo-sm.png</url>
+      <url>https://beginnenmetbitcoin.com/assets/Logo-big-rgb.png</url>
       <link>https://beginnenmetbitcoin.com/</link>
       <title>Beginnen met Bitcoin</title>
     </image>

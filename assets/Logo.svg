@@ -16,7 +16,7 @@
    id="svg8"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="Logo.svg"
-   inkscape:export-filename="/home/guacamole/Nextcloud/Prive/Podcast/Logo.png"
+   inkscape:export-filename="/home/guacamole/Nextcloud/Prive/Podcast/Logo-big.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -60,9 +60,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="90.747192"
-     inkscape:cy="288.88147"
+     inkscape:zoom="0.0875"
+     inkscape:cx="3824.5462"
+     inkscape:cy="4489.9686"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -89,7 +89,7 @@
      id="layer1">
     <g
        id="g16"
-       transform="matrix(1.0584461,0,0,1.0583226,-4.6512009e-4,229.26729)">
+       transform="matrix(12.403665,0,0,12.402218,-0.00545064,-496.74265)">
       <path
          style="fill:url(#coin-gradient)"
          d="M 63.0359,39.741 C 58.7619,56.884 41.3989,67.317 24.2539,63.042 7.1159,58.768 -3.3171,41.404 0.9589,24.262 5.2309,7.117 22.5939,-3.317 39.7339,0.957 c 17.144,4.274 27.576,21.64 23.302,38.784 z"
@@ -104,47 +104,47 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.20527077px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aa4400;fill-opacity:1;stroke:none;stroke-width:0.25513172"
-       x="34.328838"
-       y="251.3571"
+       style="font-style:normal;font-weight:normal;font-size:119.59302521px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aa4400;fill-opacity:1;stroke:none;stroke-width:2.98982477"
+       x="402.29108"
+       y="-238.0632"
        id="text12-5"
-       transform="scale(1.0000583,0.99994174)"><tspan
+       transform="scale(1.0000583,0.99994172)"><tspan
          sodipodi:role="line"
          id="tspan10-4"
-         x="34.328838"
-         y="251.3571"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.24632454px;font-family:NanumGothicExtraBold;-inkscape-font-specification:NanumGothicExtraBold;text-align:center;text-anchor:middle;fill:#aa4400;stroke-width:0.25513172">Beginnen</tspan><tspan
+         x="402.29111"
+         y="-238.0632"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:143.51161194px;font-family:NanumGothicExtraBold;-inkscape-font-specification:NanumGothicExtraBold;text-align:center;text-anchor:middle;fill:#aa4400;stroke-width:2.98982477">Beginnen</tspan><tspan
          sodipodi:role="line"
-         x="34.328838"
-         y="266.66501"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.24632454px;font-family:NanumGothicExtraBold;-inkscape-font-specification:NanumGothicExtraBold;text-align:center;text-anchor:middle;fill:#aa4400;stroke-width:0.25513172"
+         x="402.29108"
+         y="-58.673687"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:143.51161194px;font-family:NanumGothicExtraBold;-inkscape-font-specification:NanumGothicExtraBold;text-align:center;text-anchor:middle;fill:#aa4400;stroke-width:2.98982477"
          id="tspan14-0">met</tspan><tspan
          sodipodi:role="line"
-         x="34.328838"
-         y="281.9729"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.24632454px;font-family:NanumGothicExtraBold;-inkscape-font-specification:NanumGothicExtraBold;text-align:center;text-anchor:middle;fill:#aa4400;stroke-width:0.25513172"
+         x="402.29108"
+         y="120.71583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:143.51161194px;font-family:NanumGothicExtraBold;-inkscape-font-specification:NanumGothicExtraBold;text-align:center;text-anchor:middle;fill:#aa4400;stroke-width:2.98982477"
          id="tspan16-7">Bitcoin</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.20527077px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25513172"
-       x="33.9156"
-       y="251.81256"
+       style="font-style:normal;font-weight:normal;font-size:119.59302521px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.98982477"
+       x="397.44846"
+       y="-232.72585"
        id="text12"
-       transform="scale(1.0000583,0.99994174)"><tspan
+       transform="scale(1.0000583,0.99994172)"><tspan
          sodipodi:role="line"
          id="tspan10"
-         x="33.9156"
-         y="251.81256"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.24632454px;font-family:NanumGothicExtraBold;-inkscape-font-specification:NanumGothicExtraBold;text-align:center;text-anchor:middle;fill:#008000;stroke-width:0.25513172">Beginnen</tspan><tspan
+         x="397.44849"
+         y="-232.72585"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:143.51161194px;font-family:NanumGothicExtraBold;-inkscape-font-specification:NanumGothicExtraBold;text-align:center;text-anchor:middle;fill:#008000;stroke-width:2.98982477">Beginnen</tspan><tspan
          sodipodi:role="line"
-         x="33.9156"
-         y="267.12045"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.24632454px;font-family:NanumGothicExtraBold;-inkscape-font-specification:NanumGothicExtraBold;text-align:center;text-anchor:middle;fill:#008000;stroke-width:0.25513172"
+         x="397.44846"
+         y="-53.33633"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:143.51161194px;font-family:NanumGothicExtraBold;-inkscape-font-specification:NanumGothicExtraBold;text-align:center;text-anchor:middle;fill:#008000;stroke-width:2.98982477"
          id="tspan14">met</tspan><tspan
          sodipodi:role="line"
-         x="33.9156"
-         y="282.42838"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.24632454px;font-family:NanumGothicExtraBold;-inkscape-font-specification:NanumGothicExtraBold;text-align:center;text-anchor:middle;fill:#008000;stroke-width:0.25513172"
+         x="397.44846"
+         y="126.05318"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:143.51161194px;font-family:NanumGothicExtraBold;-inkscape-font-specification:NanumGothicExtraBold;text-align:center;text-anchor:middle;fill:#008000;stroke-width:2.98982477"
          id="tspan16">Bitcoin</tspan></text>
   </g>
 </svg>
