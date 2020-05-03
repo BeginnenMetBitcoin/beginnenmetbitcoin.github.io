@@ -22,7 +22,7 @@
     </itunes:category>
     <itunes:keywords>Bitcoin,uitleg,nederland,nederlands,lightning</itunes:keywords>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo.png"/>
+    <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-rgb.png"/>
     <itunes:owner>
       <itunes:email>abellykens@pm.me</itunes:email>
       <itunes:name>Abel Lykens</itunes:name>
@@ -58,7 +58,7 @@
       <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-sm.png"/>
+      <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-rgb.png"/>
       <itunes:duration>00:04:40</itunes:duration>
       <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep0.mp3" type="audio/mpeg" length="2899952"/>
     </item>
