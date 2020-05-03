@@ -33,32 +33,34 @@
       <title>Beginnen met Bitcoin</title>
     </image>
 
+
     <item>
-      <link>https://beginnenmetbitcoin.com/#test</link>
-      <title>Test Ep</title>
-      <itunes:title>Test Ep</itunes:title>
+      <link>https://beginnenmetbitcoin.com/#ep0</link>
+      <title>Aflevering 0: Over Beginnen met Bitcoin</title>
+      <itunes:title>Aflevering 0: Over Beginnen met Bitcoin</itunes:title>
       <description><![CDATA[
-          <b>Test file upload</b>
-          <p>Gewoon een simpele test</p>
-          <p><audio src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/koptelefoon.mp3" preload="none" controls="controls"></audio></p>
-          <p><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</p>
+            <b>Introductieaflevering Beginnen met Bitcoin</b>
+            <p>Uitleg over de plannen!</p>
+            <p><a href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
+            <p><audio src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep0.mp3" preload="none" controls="controls"></audio></p>
+            <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
       ]]></description>
       <itunes:summary><![CDATA[
-        Test file upload
-        Gewoon een simpele test
+         Introductieaflevering Beginnen met Bitcoin
+         Uitleg over de plannen!
       ]]></itunes:summary>
       <content:encoded><![CDATA[
-        Test file upload
-        Gewoon een simpele test
+         Introductieaflevering Beginnen met Bitcoin
+         Uitleg over de plannen!
       ]]></content:encoded>
       <itunes:season>1</itunes:season>
-      <guid>https://beginnenmetbitcoin.com/#test</guid>
+      <guid>https://beginnenmetbitcoin.com/#ep0</guid>
       <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-sm.png"/>
-      <itunes:duration>00:00:12</itunes:duration>
-      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/koptelefoon.mp3" type="audio/mpeg" length="221497"/>
+      <itunes:duration>00:04:40</itunes:duration>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep0.mp3" type="audio/mpeg" length="2899952"/>
     </item>
 
 
