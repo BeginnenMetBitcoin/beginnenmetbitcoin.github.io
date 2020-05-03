@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="https://www.google.com/schemas/play-podcasts/1.0/">
+  <channel>
+    <title>Beginnen met Bitcoin</title>
+    <description>beginnenmetbitcoin.com</description>
+    <managingEditor>Beginnen met Bitcoin</managingEditor>
+    <copyright>© 2020 beginnenmetbitcoin.com</copyright>
+    <generator>vim</generator>
+    <atom:link href="https://beginnenmetbitcoin.com/podcast.rss" rel="self" type="application/rss+xml"/>
+    <link>https://beginnenmetbitcoin.com/</link>
+    <itunes:new-feed-url>https://beginnenmetbitcoin.com/podcast.rss</itunes:new-feed-url>
+    <itunes:author>Beginnen met Bitcoin</itunes:author>
+    <itunes:summary>Een Nederlandstalige podcast waar ik Bitcoin uitleg.</itunes:summary>
+    <itunes:subtitle>Toegankelijke content voor een beginner die nog nooit wat met Bitcoin gedaan heeft, maar ook diepere technische uitleg.</itunes:subtitle>
+    <language>nl</language>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Technology">
+    </itunes:category>
+    <itunes:category text="Business">
+      <itunes:category text="Investing"/>
+    </itunes:category>
+    <itunes:category text="Education">
+      <itunes:category text="How To"/>
+    </itunes:category>
+    <itunes:keywords>Bitcoin,uitleg,nederland,nederlands,lightning</itunes:keywords>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-sm.png"/>
+    <image>
+      <url>https://beginnenmetbitcoin.com/assets/Logo-sm.png</url>
+      <link>https://beginnenmetbitcoin.com/</link>
+      <title>Beginnen met Bitcoin</title>
+    </image>
+
+    <item>
+      <link>https://startenmetbitcoin.nl/#speaker</link>
+      <title>Opgenomen met speaker</title>
+      <itunes:title>Opgenomen met speaker</itunes:title>
+      <itunes:subtitle>Ondertitel</itunes:subtitle>
+      <itunes:author>StartenMetBitcoin</itunes:author>
+      <description><![CDATA[<p>Wat tekst</p><p><ol><li>Hei</li><li>Ho</li></ol>]]></description>
+      <itunes:summary><![CDATA[<p>Wat tekst</p><p><ol><li>Hei</li><li>Ho</li></ol>]]></itunes:summary>
+      <content:encoded><![CDATA[<p>Wat tekst</p><p><ol><li>Hei</li><li>Ho</li></ol>]]></content:encoded>
+      <itunes:season>1</itunes:season>
+      <guid>https://startenmetbitcoin.nl/#koptelefoon</guid>
+      <pubDate>Fri, 01 May 2020 01:00:00 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <!--<itunes:image href="https://sivers.org/images/DerekSivers-20141209c-1556.jpg"/>-->
+      <itunes:duration>00:00:12</itunes:duration>
+      <enclosure url="https://ipfs.io/ipfs/QmX7sGqWqBdDowbj7SjDoAKDykghDJwszubS271RxNCd8b" type="audio/mpeg" length="247396"/>
+    </item>
+
+
+
+  </channel>
+</rss>
