@@ -37,6 +37,37 @@
 
 
     <item>
+      <link>https://beginnenmetbitcoin.com/#ep1</link>
+      <title>Aflevering 1: Begin van bitcoin en schaarste</title>
+      <itunes:title>Aflevering 1: Begin van bitcoin en schaarste</itunes:title>
+      <description><![CDATA[
+            <b>Hoe is bitcoin begonnen, wat geschiedenis en schaarste</b>
+            <p><a href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
+            <p><audio src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep1.mp3" preload="none" controls="controls"></audio></p>
+            <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+      ]]></description>
+      <itunes:summary><![CDATA[
+Hoe is bitcoin begonnen, wat geschiedenis en schaarste
+Telegramgroep
+beginnenmetbitcoin.com - Niks in deze podcast is beleggingsadvies.
+      ]]></itunes:summary>
+      <content:encoded><![CDATA[
+Hoe is bitcoin begonnen, wat geschiedenis en schaarste
+Telegramgroep
+beginnenmetbitcoin.com - Niks in deze podcast is beleggingsadvies.
+      ]]></content:encoded>
+      <itunes:season>1</itunes:season>
+      <guid>https://beginnenmetbitcoin.com/#ep1</guid>
+      <pubDate>Sun, 05 May 2020 00:00:00 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-rgb.png"/>
+      <itunes:duration>00:12:02</itunes:duration>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep1.mp3" type="audio/mpeg" length="7493547"/>
+    </item>
+
+
+    <item>
       <link>https://beginnenmetbitcoin.com/#ep0</link>
       <title>Aflevering 0: Over Beginnen met Bitcoin</title>
       <itunes:title>Aflevering 0: Over Beginnen met Bitcoin</itunes:title>

@@ -47,25 +47,45 @@
           font-size: 3.5rem;
         }
       }
+/* Fork label */
+.forkme{transform:rotate(45deg);background-color:#FFF;overflow:hidden;position:fixed;z-index:300;width:240px;right:-60px;top:46px;border-style:solid;border-color:#7B7979}.forkme a{color:#404040 !important;display:block;font:13px Helvetica Neue,Arial,sans-serif;margin:0.05em 0px 0.075em;padding:0.6em;text-align:center;text-decoration:none}
+
     </style>
     <!-- Custom styles for this template -->
     <link href="assets/blog.css" rel="stylesheet">
   </head>
   <body>
+  <!-- Fork Label -->
+  <div class="forkme"><a href="https://github.com/BeginnenMetBitcoin/beginnenmetbitcoin.github.io">Help mee op Github</a></div>
+
     <div class="container">
   <header class="blog-header py-3">
     <div class="row flex-nowrap justify-content-between align-items-center">
       <div class="col-4 pt-1">
-        <a class="text-muted" href="podcast.rss">Podcast-RSS</a>
+        <!--<a class="text-muted" href="podcast.rss">Podcast-RSS</a>-->
       </div>
       <div class="col-4 text-center">
         <a class="blog-header-logo text-dark" href="#">Beginnen met Bitcoin</a>
       </div>
       <div class="col-4 d-flex justify-content-end align-items-center">
-        <a class="btn btn-sm btn-outline-secondary" href="https://t.me/beginnenmetbitcoin">Telegramchat</a>
+        <!--<a class="btn btn-sm btn-outline-secondary" href="https://t.me/beginnenmetbitcoin">Telegramchat</a>-->
       </div>
     </div>
   </header>
+
+
+
+
+  <div class="nav-scroller py-1 mb-2" style="margin-top:2em;">
+    <nav class="nav d-flex justify-content-between">
+      <a class="p-2 text-muted" href="https://beginnenmetbitcoin.com/podcast.rss">RSS</a>
+      <a class="p-2 text-muted" href="https://pca.st/tspaop98">PocketCast</a>
+      <a class="p-2 text-muted" href="https://open.spotify.com/show/6nil9VrFYWEwpFVmWZRfZ4?si=mnwSWEUxRpuGVg1zoRJEZQ">Spotify</a>
+      <a class="p-2 text-muted" href="https://gpodder.net/podcast/beginnen-met-bitcoin">gPodder</a>
+      <a class="p-2 text-muted" href="itpc://beginnenmetbitcoin.com/podcast.rss">iTunes</a>
+    </nav>
+  </div>
+
 
   <div class="jumbotron p-4 p-md-5 text-white rounded bg-dark">
     <div class="col-md-12 px-0">
@@ -84,6 +104,23 @@
       <h3 class="pb-4 mb-4 font-italic border-bottom">
         Afleveringen
       </h3>
+
+
+      <!-- AFLEVERING -->
+      <div class="blog-post border-bottom" id="ep1">
+        <h2 class="blog-post-title">Aflevering 1: Begin van bitcoin en schaarste</h2>
+        <p class="blog-post-meta">5 mei 2020</p>
+        <div class="shownotes bg-link">
+          <p>
+            <b>Hoe is bitcoin begonnen, wat geschiedenis en schaarste</b>
+            <p><a href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
+            <p><audio src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep1.mp3" preload="none" controls="controls"></audio></p>
+            <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+          </p>
+        </div>
+      </div>
+      <!-- /////////// -->
+
 
 
       <!-- AFLEVERING -->
@@ -122,9 +159,8 @@
         <ol class="list-unstyled">
           <li><a href="https://beginnenmetbitcoin.com/podcast.rss">RSS-podcastlink</a></li>
           <li><a href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></li>
-          <li><a href="https://gpodder.net/podcast/beginnen-met-bitcoin">gpodder</a></li>
           <li><a href="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/podcast.rss">Expirimentele podcastlink op IPFS</a></li>
-          <li><a href="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/">Expirimentele site op IPFS</a></li>
+          <li><a href="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/">Experimentele site op IPFS</a></li>
         </ol>
       </div>
 
@@ -132,6 +168,7 @@
         <h4 class="font-italic">Afleveringen</h4>
         <ol class="list-unstyled mb-0">
           <li><a href="#ep0">Aflevering 0: Over Beginnen met Bitcoin</a></li>
+          <li><a href="#ep1">Aflevering 1: Begin van bitcoin en schaarste</a></li>
         </ol>
       </div>
 
@@ -146,7 +183,23 @@
   <p>Blog template voor <a href="https://getbootstrap.com/">Bootstrap</a> door <a href="https://twitter.com/mdo">@mdo</a>. Muziek door <a href="http://podsummit.com/freemusic/">PodSummit</a></p>
 </footer>
 
-<!--<script src="assets/jquery-3.5.0.min.js"></script> -->
+<script src="assets/jquery-3.5.0.min.js"></script>
+<script type="text/javascript">
+  $(document).ready(function () {
+    $(".expandableCollapsibleDiv > img").click(function (e) {
+      var showElementDescription = 
+        $(this).parents(".expandableCollapsibleDiv").find("ul");
+  
+      if ($(showElementDescription).is(":visible")) {
+        showElementDescription.hide("fast", "swing");
+        $(this).attr("src", "Image/up-arrow.jpg");
+      } else {
+        showElementDescription.show("fast", "swing");
+        $(this).attr("src", "Image/down-arrow.jpg");
+      }
+    });
+  });
+</script>
 
 
 </body>
