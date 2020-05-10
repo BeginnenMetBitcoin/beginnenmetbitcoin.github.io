@@ -62,6 +62,55 @@
     -->
 
 
+    <item>
+      <link>https://beginnenmetbitcoin.com/#ep5</link>
+      <title>Aflevering 5: De Blockchain</title>
+      <itunes:title>Aflevering 5: De Blockchain</itunes:title>
+      <description><![CDATA[
+            <b>De blockchain, wat is dat, en wat zit er in blocks?</b>
+            <p>De besproken links</p>
+            <ul>
+              <li><a target="_blank" href="https://blockstream.com">Blockchain-informatie bekijken op blockstream.com</a></li>
+              <li><a target="_blank" href="https://bitcoin.nl/explorer">Blockchain-informatie op bitcoin.nl</a></li>
+            </ul>
+            <p><a target="_blank" href="https://pay.beginnenmetbitcoin.com">Donatielink</a></p>
+            <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
+            <p><audio src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep5-AUP.mp3" preload="none" controls="controls"></audio></p>
+            <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+      ]]></description>
+      <itunes:summary><![CDATA[
+De blockchain, wat is dat, en wat zit er in blocks?
+
+De besproken links
+
+    Blockchain-informatie bekijken op blockstream.com
+    Blockchain-informatie op bitcoin.nl
+
+Donatielink
+
+Telegramgroep
+      ]]></itunes:summary>
+      <content:encoded><![CDATA[
+            <b>De blockchain, wat is dat, en wat zit er in blocks?</b>
+            <p>De besproken links</p>
+            <ul>
+              <li><a target="_blank" href="https://blockstream.com">Blockchain-informatie bekijken op blockstream.com</a></li>
+              <li><a target="_blank" href="https://bitcoin.nl/explorer">Blockchain-informatie op bitcoin.nl</a></li>
+            </ul>
+            <p><a target="_blank" href="https://pay.beginnenmetbitcoin.com">Donatielink</a></p>
+            <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
+            <p><audio src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep5-AUP.mp3" preload="none" controls="controls"></audio></p>
+            <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+      ]]></content:encoded>
+      <itunes:season>1</itunes:season>
+      <guid>https://beginnenmetbitcoin.com/#ep5</guid>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-rgb.png"/>
+      <itunes:duration>00:12:13</itunes:duration>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep5-AUP.mp3" type="audio/mpeg" length="14965011"/>
+    </item>
 
 
 
