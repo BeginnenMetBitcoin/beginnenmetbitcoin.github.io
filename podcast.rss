@@ -86,6 +86,85 @@ Telegramgroep
     </item>
 
 
+    <!--
+    <item>
+      <link>https://beginnenmetbitcoin.com/#ep XXX</link>
+      <title>Aflevering XXX: XXX</title>
+      <itunes:title>Aflevering XXX</itunes:title>
+      <description><![CDATA[
+        HTML XXX
+      ]]></description>
+      <itunes:summary><![CDATA[
+        PLAIN XXX
+      ]]></itunes:summary>
+      <content:encoded><![CDATA[
+        HTML XXX
+      ]]></content:encoded>
+      <itunes:season>1</itunes:season>
+      <guid>https://beginnenmetbitcoin.com/#ep2</guid>
+      <pubDate>Sun, 06 XXX May 2020 00:00:00 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-rgb.png"/>
+      <itunes:duration>00:MMM:XXX</itunes:duration>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/epXXX-AUP.mp3" type="audio/mpeg" length="XXX"/>
+    </item>
+    -->
+
+
+    <item>
+      <link>https://beginnenmetbitcoin.com/#ep4</link>
+      <title>Aflevering 4: Nodes, wat, waarom en hoe?</title>
+      <itunes:title>Aflevering 4: Nodes, wat, waarom en hoe?</itunes:title>
+      <description><![CDATA[
+            <b>Wat is een bitcoin core node, wat doen nodes, en wat heb ik nodig om er een te beginnen?</b>
+            <p>De besproken links</p>
+            <ul>
+              <li><a target="_blank" href="https://bitcoin.org/en/download">Bitcoin.org downloadlink</a></li>
+              <li><a target="_blank" href="https://bitcoincore.org/">Officiele site bitcoin core</a></li>
+              <li><a target="_blank" href="https://tweakers.net/moederborden/raspberry-pi/4-model-b_p999246/vergelijken/">Raspberry Pi</a></li>
+            </ul>
+            <p><a target="_blank" href="https://pay.beginnenmetbitcoin.com">Donatielink</a></p>
+            <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
+            <p><audio src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep4-AUP.mp3" preload="none" controls="controls"></audio></p>
+            <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+      ]]></description>
+      <itunes:summary><![CDATA[
+ Wat is een bitcoin core node, wat doen nodes, en wat heb ik nodig om er een te beginnen?
+
+De besproken links
+
+    Bitcoin.org downloadlink
+    Officiele site bitcoin core
+    Raspberry Pi
+
+Donatielink
+
+Telegramgroep
+      ]]></itunes:summary>
+      <content:encoded><![CDATA[
+            <b>Wat is een bitcoin core node, wat doen nodes, en wat heb ik nodig om er een te beginnen?</b>
+            <p>De besproken links</p>
+            <ul>
+              <li><a target="_blank" href="https://bitcoin.org/en/download">Bitcoin.org downloadlink</a></li>
+              <li><a target="_blank" href="https://bitcoincore.org/">Officiele site bitcoin core</a></li>
+              <li><a target="_blank" href="https://tweakers.net/moederborden/raspberry-pi/4-model-b_p999246/vergelijken/">Raspberry Pi</a></li>
+            </ul>
+            <p><a target="_blank" href="https://pay.beginnenmetbitcoin.com">Donatielink</a></p>
+            <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
+            <p><audio src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep4-AUP.mp3" preload="none" controls="controls"></audio></p>
+            <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+      ]]></content:encoded>
+      <itunes:season>1</itunes:season>
+      <guid>https://beginnenmetbitcoin.com/#ep2</guid>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-rgb.png"/>
+      <itunes:duration>00:09:45</itunes:duration>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep4-AUP.mp3" type="audio/mpeg" length="11999591"/>
+    </item>
+
 
 
 
