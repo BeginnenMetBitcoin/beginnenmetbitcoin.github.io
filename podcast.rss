@@ -36,6 +36,190 @@
     </image>
 
 
+    <!--
+    <item>
+      <link>https://beginnenmetbitcoin.com/#ep XXX</link>
+      <title>Aflevering XXX: XXX</title>
+      <itunes:title>Aflevering XXX</itunes:title>
+      <description><![CDATA[
+        HTML XXX
+      ]]></description>
+      <itunes:summary><![CDATA[
+        PLAIN XXX
+      ]]></itunes:summary>
+      <content:encoded><![CDATA[
+        HTML XXX
+      ]]></content:encoded>
+      <itunes:season>1</itunes:season>
+      <guid>https://beginnenmetbitcoin.com/#epXXX</guid>
+      <pubDate>Sun, 06 XXX May 2020 00:00:00 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-rgb.png"/>
+      <itunes:duration>00:MMM:XXX</itunes:duration>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/epXXX-AUP.mp3" type="audio/mpeg" length="XXX"/>
+    </item>
+    -->
+
+
+    <item>
+      <link>https://beginnenmetbitcoin.com/#ep5</link>
+      <title>Aflevering 5: De Blockchain</title>
+      <itunes:title>Aflevering 5: De Blockchain</itunes:title>
+      <description><![CDATA[
+            <b>De blockchain, wat is dat, en wat zit er in blocks?</b>
+            <p>De besproken links</p>
+            <ul>
+              <li><a target="_blank" href="https://blockstream.com">Blockchain-informatie bekijken op blockstream.com</a></li>
+              <li><a target="_blank" href="https://bitcoin.nl/explorer">Blockchain-informatie op bitcoin.nl</a></li>
+            </ul>
+            <p><a target="_blank" href="https://pay.beginnenmetbitcoin.com">Donatielink</a></p>
+            <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
+            <p><audio src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep5-AUP.mp3" preload="none" controls="controls"></audio></p>
+            <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+      ]]></description>
+      <itunes:summary><![CDATA[
+De blockchain, wat is dat, en wat zit er in blocks?
+
+De besproken links
+
+    Blockchain-informatie bekijken op blockstream.com
+    Blockchain-informatie op bitcoin.nl
+
+Donatielink
+
+Telegramgroep
+      ]]></itunes:summary>
+      <content:encoded><![CDATA[
+            <b>De blockchain, wat is dat, en wat zit er in blocks?</b>
+            <p>De besproken links</p>
+            <ul>
+              <li><a target="_blank" href="https://blockstream.com">Blockchain-informatie bekijken op blockstream.com</a></li>
+              <li><a target="_blank" href="https://bitcoin.nl/explorer">Blockchain-informatie op bitcoin.nl</a></li>
+            </ul>
+            <p><a target="_blank" href="https://pay.beginnenmetbitcoin.com">Donatielink</a></p>
+            <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
+            <p><audio src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep5-AUP.mp3" preload="none" controls="controls"></audio></p>
+            <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+      ]]></content:encoded>
+      <itunes:season>1</itunes:season>
+      <guid>https://beginnenmetbitcoin.com/#ep5</guid>
+      <pubDate>Sun, 10 May 2020 00:01:00 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-rgb.png"/>
+      <itunes:duration>00:12:13</itunes:duration>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep5-AUP.mp3" type="audio/mpeg" length="14965011"/>
+    </item>
+
+
+
+
+    <item>
+      <link>https://beginnenmetbitcoin.com/#ep4</link>
+      <title>Aflevering 4: Nodes, wat, waarom en hoe?</title>
+      <itunes:title>Aflevering 4: Nodes, wat, waarom en hoe?</itunes:title>
+      <description><![CDATA[
+            <b>Wat is een bitcoin core node, wat doen nodes, en wat heb ik nodig om er een te beginnen?</b>
+            <p>De besproken links</p>
+            <ul>
+              <li><a target="_blank" href="https://bitcoin.org/en/download">Bitcoin.org downloadlink</a></li>
+              <li><a target="_blank" href="https://bitcoincore.org/">Officiele site bitcoin core</a></li>
+              <li><a target="_blank" href="https://tweakers.net/moederborden/raspberry-pi/4-model-b_p999246/vergelijken/">Raspberry Pi</a></li>
+            </ul>
+            <p><a target="_blank" href="https://pay.beginnenmetbitcoin.com">Donatielink</a></p>
+            <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
+            <p><audio src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep4-AUP.mp3" preload="none" controls="controls"></audio></p>
+            <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+      ]]></description>
+      <itunes:summary><![CDATA[
+ Wat is een bitcoin core node, wat doen nodes, en wat heb ik nodig om er een te beginnen?
+
+De besproken links
+
+    Bitcoin.org downloadlink
+    Officiele site bitcoin core
+    Raspberry Pi
+
+Donatielink
+
+Telegramgroep
+      ]]></itunes:summary>
+      <content:encoded><![CDATA[
+            <b>Wat is een bitcoin core node, wat doen nodes, en wat heb ik nodig om er een te beginnen?</b>
+            <p>De besproken links</p>
+            <ul>
+              <li><a target="_blank" href="https://bitcoin.org/en/download">Bitcoin.org downloadlink</a></li>
+              <li><a target="_blank" href="https://bitcoincore.org/">Officiele site bitcoin core</a></li>
+              <li><a target="_blank" href="https://tweakers.net/moederborden/raspberry-pi/4-model-b_p999246/vergelijken/">Raspberry Pi</a></li>
+            </ul>
+            <p><a target="_blank" href="https://pay.beginnenmetbitcoin.com">Donatielink</a></p>
+            <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
+            <p><audio src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep4-AUP.mp3" preload="none" controls="controls"></audio></p>
+            <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+      ]]></content:encoded>
+      <itunes:season>1</itunes:season>
+      <guid>https://beginnenmetbitcoin.com/#ep4</guid>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-rgb.png"/>
+      <itunes:duration>00:09:45</itunes:duration>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep4-AUP.mp3" type="audio/mpeg" length="11999591"/>
+    </item>
+
+
+    <item>
+      <link>https://beginnenmetbitcoin.com/#ep3</link>
+      <title>Aflevering 3: Bitcoin kopen</title>
+      <itunes:title>Aflevering 3: Bitcoin kopen</itunes:title>
+      <description><![CDATA[
+            <b>Hoe kom je aan bitcoin?</b>
+            <p>De besproken links</p>
+            <ul>
+              <li><a target="_blank" href="https://bitonic.nl">Bitonic.nl</a></li>
+              <li><a target="_blank" href="https://bl3p.eu">Bl3p exchange</a></li>
+              <li><a target="_blank" href="https://hodlhodl.com/">HodlHodl.com</a></li>
+            </ul>
+            <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
+            <p><audio src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep3.mp3" preload="none" controls="controls"></audio></p>
+            <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+      ]]></description>
+      <itunes:summary><![CDATA[
+      ]]></itunes:summary>
+ Hoe kom je aan bitcoin?
+
+De besproken links
+
+    Bitonic.nl
+    Bl3p exchange
+    HodlHodl.com
+
+Telegramgroep
+      <content:encoded><![CDATA[
+            <b>Hoe kom je aan bitcoin?</b>
+            <p>De besproken links</p>
+            <ul>
+              <li><a target="_blank" href="https://bitonic.nl">Bitonic.nl</a></li>
+              <li><a target="_blank" href="https://bl3p.eu">Bl3p exchange</a></li>
+              <li><a target="_blank" href="https://hodlhodl.com/">HodlHodl.com</a></li>
+            </ul>
+            <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
+            <p><audio src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep3.mp3" preload="none" controls="controls"></audio></p>
+            <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+      ]]></content:encoded>
+      <itunes:season>1</itunes:season>
+      <guid>https://beginnenmetbitcoin.com/#ep3</guid>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-rgb.png"/>
+      <itunes:duration>00:10:24</itunes:duration>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep3-AUP.mp3" type="audio/mpeg" length="12776995"/>
+    </item>
+
+
+
     <item>
       <link>https://beginnenmetbitcoin.com/#ep2</link>
       <title>Aflevering 2: Hoe gebruik ik bitcoin, wallets en meer</title>
@@ -52,7 +236,7 @@
               <li><a href="https://play.google.com/store/apps/details?id=com.breadwallet">BRD wallet op Android</a></li>
             </ul>
             <p><a href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
-            <p><audio src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep2.mp3" preload="none" controls="controls"></audio></p>
+            <p><audio src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep2-AUP.mp3" preload="none" controls="controls"></audio></p>
             <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
       ]]></description>
       <itunes:summary><![CDATA[
@@ -72,20 +256,19 @@ Telegramgroep https://t.me/beginnenmetbitcoin
 beginnenmetbitcoin.com - Niks in deze podcast is beleggingsadvies.
       ]]></itunes:summary>
       <content:encoded><![CDATA[
-Hoe gebruik je bitcoin en wat is een wallet
-
-De besproken links
-
-    De Kies-uw-portemonnee op bitcoin.org https://bitcoin.org/nl/kies-uw-portemonnee
-    Ledger wallet, de leverancier van mijn hardware wallet https://www.ledger.com/
-    Android wallet "Bitcoin Wallet" https://wallet.schildbach.de/
-    MUUN wallet op iOS (iPhone) en android https://muun.com/
-    BRD wallet op iOS (iPhone) https://itunes.apple.com/app/brd-bitcoin-wallet/id885251393
-    BRD wallet op Android https://play.google.com/store/apps/details?id=com.breadwallet
-
-Telegramgroep https://t.me/beginnenmetbitcoin
-
-beginnenmetbitcoin.com - Niks in deze podcast is beleggingsadvies.
+            <b>Hoe gebruik je bitcoin en wat is een wallet</b>
+            <p>De besproken links</p>
+            <ul>
+              <li><a href="https://bitcoin.org/nl/kies-uw-portemonnee">De Kies-uw-portemonnee op bitcoin.org</a></li>
+              <li><a href="https://www.ledger.com/">Ledger wallet</a>, de leverancier van mijn hardware wallet  </li>
+              <li><a href="https://wallet.schildbach.de/">Android wallet "Bitcoin Wallet"</a></li>
+              <li><a href="https://muun.com/">MUUN wallet op iOS (iPhone) en android</a></li>
+              <li><a href="https://itunes.apple.com/app/brd-bitcoin-wallet/id885251393">BRD wallet op iOS (iPhone)</a></li>
+              <li><a href="https://play.google.com/store/apps/details?id=com.breadwallet">BRD wallet op Android</a></li>
+            </ul>
+            <p><a href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
+            <p><audio src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep2-AUP.mp3" preload="none" controls="controls"></audio></p>
+            <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
       ]]></content:encoded>
       <itunes:season>1</itunes:season>
       <guid>https://beginnenmetbitcoin.com/#ep2</guid>
@@ -94,7 +277,7 @@ beginnenmetbitcoin.com - Niks in deze podcast is beleggingsadvies.
       <itunes:explicit>no</itunes:explicit>
       <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-rgb.png"/>
       <itunes:duration>00:22:14</itunes:duration>
-      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep2.mp3" type="audio/mpeg" length="13387712"/>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep2-AUP.mp3" type="audio/mpeg" length="18681177"/>
     </item>
 
 
@@ -107,7 +290,7 @@ beginnenmetbitcoin.com - Niks in deze podcast is beleggingsadvies.
       <description><![CDATA[
             <b>Hoe is bitcoin begonnen, wat geschiedenis en schaarste</b>
             <p><a href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
-            <p><audio src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep1.mp3" preload="none" controls="controls"></audio></p>
+            <p><audio src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep1-AUP.mp3" preload="none" controls="controls"></audio></p>
             <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
       ]]></description>
       <itunes:summary><![CDATA[
@@ -116,9 +299,10 @@ Telegramgroep
 beginnenmetbitcoin.com - Niks in deze podcast is beleggingsadvies.
       ]]></itunes:summary>
       <content:encoded><![CDATA[
-Hoe is bitcoin begonnen, wat geschiedenis en schaarste
-Telegramgroep
-beginnenmetbitcoin.com - Niks in deze podcast is beleggingsadvies.
+            <b>Hoe is bitcoin begonnen, wat geschiedenis en schaarste</b>
+            <p><a href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
+            <p><audio src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep1-AUP.mp3" preload="none" controls="controls"></audio></p>
+            <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
       ]]></content:encoded>
       <itunes:season>1</itunes:season>
       <guid>https://beginnenmetbitcoin.com/#ep1</guid>
@@ -127,7 +311,7 @@ beginnenmetbitcoin.com - Niks in deze podcast is beleggingsadvies.
       <itunes:explicit>no</itunes:explicit>
       <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-rgb.png"/>
       <itunes:duration>00:12:02</itunes:duration>
-      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep1.mp3" type="audio/mpeg" length="7493547"/>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep1-AUP.mp3" type="audio/mpeg" length="10110662"/>
     </item>
 
 
@@ -139,7 +323,7 @@ beginnenmetbitcoin.com - Niks in deze podcast is beleggingsadvies.
             <b>Introductieaflevering Beginnen met Bitcoin</b>
             <p>Uitleg over de plannen!</p>
             <p><a href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
-            <p><audio src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep0.mp3" preload="none" controls="controls"></audio></p>
+            <p><audio src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep0-AUP.mp3" preload="none" controls="controls"></audio></p>
             <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
       ]]></description>
       <itunes:summary><![CDATA[
@@ -147,8 +331,11 @@ beginnenmetbitcoin.com - Niks in deze podcast is beleggingsadvies.
          Uitleg over de plannen!
       ]]></itunes:summary>
       <content:encoded><![CDATA[
-         Introductieaflevering Beginnen met Bitcoin
-         Uitleg over de plannen!
+            <b>Introductieaflevering Beginnen met Bitcoin</b>
+            <p>Uitleg over de plannen!</p>
+            <p><a href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
+            <p><audio src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep0-AUP.mp3" preload="none" controls="controls"></audio></p>
+            <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
       ]]></content:encoded>
       <itunes:season>1</itunes:season>
       <guid>https://beginnenmetbitcoin.com/#ep0</guid>
@@ -157,7 +344,7 @@ beginnenmetbitcoin.com - Niks in deze podcast is beleggingsadvies.
       <itunes:explicit>no</itunes:explicit>
       <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-rgb.png"/>
       <itunes:duration>00:04:40</itunes:duration>
-      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep0.mp3" type="audio/mpeg" length="2899952"/>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep0-AUP.mp3" type="audio/mpeg" length="3929693"/>
     </item>
 
 
