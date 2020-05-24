@@ -61,6 +61,54 @@
     </item>
     -->
 
+
+    <item>
+      <link>https://beginnenmetbitcoin.com/#ep10</link>
+      <title>Aflevering 10: Risico's en Tegenargumenten</title>
+      <itunes:title>Aflevering 10: Risico's en Tegenargumenten</itunes:title>
+      <description><![CDATA[
+          <b>Argumenten tegen bitcoin!</b>
+          <p>Links</p>
+          <ul>
+            <li><a target="_blank" href="https://en.bitcoin.it/wiki/Myths">Argumenten op de bitcoin wiki</a></li>
+          </ul>
+          <p><a target="_blank" href="https://pay.beginnenmetbitcoin.com">Donatielink</a></p>
+          <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
+          <p><audio class="w-100" src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep10-AUP.mp3" preload="none" controls="controls"></audio></p>
+          <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+      ]]></description>
+      <itunes:summary><![CDATA[
+Argumenten tegen bitcoin!
+
+Links
+
+    Argumenten op de bitcoin wiki
+
+Donatielink
+
+Telegramgroep
+      ]]></itunes:summary>
+      <content:encoded><![CDATA[
+          <b>Argumenten tegen bitcoin!</b>
+          <p>Links</p>
+          <ul>
+            <li><a target="_blank" href="https://en.bitcoin.it/wiki/Myths">Argumenten op de bitcoin wiki</a></li>
+          </ul>
+          <p><a target="_blank" href="https://pay.beginnenmetbitcoin.com">Donatielink</a></p>
+          <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
+          <p><audio class="w-100" src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep10-AUP.mp3" preload="none" controls="controls"></audio></p>
+          <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+      ]]></content:encoded>
+      <itunes:season>1</itunes:season>
+      <guid>https://beginnenmetbitcoin.com/#ep10</guid>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-rgb.png"/>
+      <itunes:duration>00:30:22</itunes:duration>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep10-AUP.mp3" type="audio/mpeg" length="36459586"/>
+    </item>
+
     <item>
       <link>https://beginnenmetbitcoin.com/#ep9</link>
       <title>Aflevering 9: Anonimiteit en mixen</title>
