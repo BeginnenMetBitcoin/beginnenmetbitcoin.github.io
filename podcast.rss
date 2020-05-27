@@ -63,6 +63,56 @@
 
 
     <item>
+      <link>https://beginnenmetbitcoin.com/#ep XXX</link>
+      <title>Aflevering 12: Cryptografie en hashing (Techniek)</title>
+      <itunes:title>Aflevering 12: Cryptografie en hashing (Techniek)</itunes:title>
+      <description><![CDATA[
+          <b>Public Key Cryptografie en Hashing</b>
+          <b>(Ik heb het in deze aflevering alleen over Sha256-hashes)</b>
+          <p>Links</p>
+          <ul>
+            <li><a target="_blank" href="https://duckduckgo.com/?t=ffab&q=sha256+Beginnenmetbitcoin3471&ia=answer">Beginnenmetbitcoin3471</a> hash, die begint met 000</li>
+          </ul>
+          <p><a target="_blank" href="https://pay.beginnenmetbitcoin.com">Donatielink</a></p>
+          <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
+          <p><audio class="w-100" src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep11-AUP.mp3" preload="none" controls="controls"></audio></p>
+          <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+      ]]></description>
+      <itunes:summary><![CDATA[
+Public Key Cryptografie en Hashing
+
+Links
+
+    Beginnenmetbitcoin3471 hash, die begint met 000
+
+Donatielink
+
+Telegramgroep
+      ]]></itunes:summary>
+      <content:encoded><![CDATA[
+          <b>Public Key Cryptografie en Hashing</b>
+          <b>(Ik heb het in deze aflevering alleen over Sha256-hashes)</b>
+          <p>Links</p>
+          <ul>
+            <li><a target="_blank" href="https://duckduckgo.com/?t=ffab&q=sha256+Beginnenmetbitcoin3471&ia=answer">Beginnenmetbitcoin3471</a> hash, die begint met 000</li>
+          </ul>
+          <p><a target="_blank" href="https://pay.beginnenmetbitcoin.com">Donatielink</a></p>
+          <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
+          <p><audio class="w-100" src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep11-AUP.mp3" preload="none" controls="controls"></audio></p>
+          <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+      ]]></content:encoded>
+      <itunes:season>1</itunes:season>
+      <guid>https://beginnenmetbitcoin.com/#ep12</guid>
+      <pubDate>Sun, 27 May 2020 00:00:00 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-rgb.png"/>
+      <itunes:duration>00:12:50</itunes:duration>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep12-AUP.mp3" type="audio/mpeg" length="15689128"/>
+    </item>
+
+
+    <item>
       <link>https://beginnenmetbitcoin.com/#ep11</link>
       <title>Aflevering 11: Mining pools</title>
       <itunes:title>Aflevering 11: Mining pools</itunes:title>
