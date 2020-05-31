@@ -61,6 +61,104 @@
     </item>
     -->
 
+    <item>
+      <link>https://beginnenmetbitcoin.com/#ep13</link>
+      <title>Aflevering 13: Vraag en antwoord deel 1</title>
+      <itunes:title>Aflevering 13: Vraag en antwoord deel 1</itunes:title>
+      <description><![CDATA[
+          <b>Vragen en antwoorden</b>
+          <ul>
+            <li>1  Hoeveel in mobiele wallet? (Joeri)</li>
+            <li>2  Zijn er onveilige wallets? (Joeri)</li>
+            <li>3  Zijn seeds herbruikbaar in andere wallets? (Joeri)</li>
+            <li>4  Waarom mogen miners pas na 100 blokken uitgeven? (Rob)</li>
+            <li>5  Waarom 6 confirms wachten? (Rob)</li>
+            <li>6  Peer discovery in het netwerk (Rob)</li>
+            <li>7  Hoe verlies ik de KYC van mijn coins? (Ruudiano)</li>
+            <li>8  Is mixen niet ideaal voor criminelen? (Ferry)</li>
+            <li>9  Nadelen van mixen? (Matteo)</li>
+            <li>10 Transacties doen met HW wallets? (Joeri)</li>
+            <li>11 Handelen tussen exchanges (Silvio)</li>
+            <li>12 Waar komt "shitcoin" vandaan, en waarom komen er steeds meer? (Joeri)</li>
+          </ul>
+          <p>Links</p>
+          <ul>
+            <li><a target="_blank" href="https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt">BIP0039 woordenlijst</a></li>
+            <li><a target="_blank" href="https://www.crypto51.app/">Kosten van een aanval</a></li>
+            <li><a target="_blank" href="https://github.com/bitcoin/bitcoin/blob/master/src/chainparams.cpp#L111-L123">Code met DNS-systeem ontwikkelaars om eerste node te vinden</a></li>
+          </ul>
+          <p><a target="_blank" href="https://pay.beginnenmetbitcoin.com">Donatielink</a></p>
+          <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
+          <p><a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a></p>
+          <p><audio class="w-100" src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep13-AUP.mp3" preload="none" controls="controls"></audio></p>
+          <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+      ]]></description>
+      <itunes:summary><![CDATA[
+Vragen en antwoorden
+
+    1 Hoeveel in mobiele wallet? (Joeri)
+    2 Zijn er onveilige wallets? (Joeri)
+    3 Zijn seeds herbruikbaar in andere wallets? (Joeri)
+    4 Waarom mogen miners pas na 100 blokken uitgeven? (Rob)
+    5 Waarom 6 confirms wachten? (Rob)
+    6 Peer discovery in het netwerk (Rob)
+    7 Hoe verlies ik de KYC van mijn coins? (Ruudiano)
+    8 Is mixen niet ideaal voor criminelen? (Ferry)
+    9 Nadelen van mixen? (Matteo)
+    10 Transacties doen met HW wallets? (Joeri)
+    11 Handelen tussen exchanges (Silvio)
+    12 Waar komt "shitcoin" vandaan, en waarom komen er steeds meer? (Joeri)
+
+Links
+
+    BIP0039 woordenlijst
+    Kosten van een aanval
+    Code met DNS-systeem ontwikkelaars om eerste node te vinden
+
+Donatielink
+
+Telegramgroep
+
+Twitter
+      ]]></itunes:summary>
+      <content:encoded><![CDATA[
+          <b>Vragen en antwoorden</b>
+          <ul>
+            <li>1  Hoeveel in mobiele wallet? (Joeri)</li>
+            <li>2  Zijn er onveilige wallets? (Joeri)</li>
+            <li>3  Zijn seeds herbruikbaar in andere wallets? (Joeri)</li>
+            <li>4  Waarom mogen miners pas na 100 blokken uitgeven? (Rob)</li>
+            <li>5  Waarom 6 confirms wachten? (Rob)</li>
+            <li>6  Peer discovery in het netwerk (Rob)</li>
+            <li>7  Hoe verlies ik de KYC van mijn coins? (Ruudiano)</li>
+            <li>8  Is mixen niet ideaal voor criminelen? (Ferry)</li>
+            <li>9  Nadelen van mixen? (Matteo)</li>
+            <li>10 Transacties doen met HW wallets? (Joeri)</li>
+            <li>11 Handelen tussen exchanges (Silvio)</li>
+            <li>12 Waar komt "shitcoin" vandaan, en waarom komen er steeds meer? (Joeri)</li>
+          </ul>
+          <p>Links</p>
+          <ul>
+            <li><a target="_blank" href="https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt">BIP0039 woordenlijst</a></li>
+            <li><a target="_blank" href="https://www.crypto51.app/">Kosten van een aanval</a></li>
+            <li><a target="_blank" href="https://github.com/bitcoin/bitcoin/blob/master/src/chainparams.cpp#L111-L123">Code met DNS-systeem ontwikkelaars om eerste node te vinden</a></li>
+          </ul>
+          <p><a target="_blank" href="https://pay.beginnenmetbitcoin.com">Donatielink</a></p>
+          <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
+          <p><a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a></p>
+          <p><audio class="w-100" src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep13-AUP.mp3" preload="none" controls="controls"></audio></p>
+          <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+      ]]></content:encoded>
+      <itunes:season>1</itunes:season>
+      <guid>https://beginnenmetbitcoin.com/#ep13</guid>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-rgb.png"/>
+      <itunes:duration>00:26:29</itunes:duration>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep13-AUP.mp3" type="audio/mpeg" length="32071038"/>
+    </item>
+
 
     <item>
       <link>https://beginnenmetbitcoin.com/#ep XXX</link>
