@@ -114,8 +114,8 @@ Twitter
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-LN.png"/>
-      <itunes:duration>00:MMM:XXX</itunes:duration>
-      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/epXXX-AUP.mp3" type="audio/mpeg" length="XXX"/>
+      <itunes:duration>00:19:29</itunes:duration>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep14-AUP.mp3" type="audio/mpeg" length="23685747"/>
     </item>
 
     <item>
