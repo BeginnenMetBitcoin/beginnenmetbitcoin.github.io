@@ -61,6 +61,104 @@
     </item>
     -->
 
+
+    <item>
+      <link>https://beginnenmetbitcoin.com/#ep17</link>
+      <title>Aflevering 17: Lightning: Een node beginnen en onderhouden</title>
+      <itunes:title>Aflevering 17: Lightning: Een node beginnen en onderhouden</itunes:title>
+      <description><![CDATA[
+          <p><b>Wat moet je doen als je een node hebt?</b></p>
+          <ol>
+            <li>Openen van kanalen, en met wie je dat het beste kan doen</li>
+            <li>Zorgen dat je geld kan ontvangen</li>
+            <li>Kanalen balanceren</li>
+            <li>Fees aanpassen</li>
+            <li>Backups maken</li>
+            <li>Sluiten van kanalen</li>
+            <li>Node online houden</li>
+            <li>Watchtowers, tegen fraude</li>
+            <li>Node gepatcht en veilig houden</li>
+          </ol>
+          <p>Links</p>
+          <ul>
+            <li><a target="_blank" href="https://github.com/C-Otto/rebalance-lnd">rebalance-lnd</a>, script om te rebalancen</li>
+            <li><a target="_blank" href="https://gist.github.com/alexbosworth/2c5e185aedbdac45a03655b709e255a3">Backupscript voor Linux</a></li>
+            <li><a target="_blank" href="https://lightning.watch">Lightning.Watch</a>, stuurt je een berichtje als je node offline gaat</li>
+            <li><a target="_blank" href="https://1ml.com">1ml.com</a>, node site</li>
+            <li><a target="_blank" href="https://mempool.space">mempool.space</a>: hoe staat het ervoor met de mempool?</li>
+            <li><a target="_blank" href="https://cisofy.com/lynis/">Lynis</a> voor je nodebeveiliging</li>
+            <li><a target="_blank" href="https://t.me/lightningnl">LightningNL groep op telegram</a></li>
+            <li><a target="_blank" href="https://t.me/beginnenmetbitcoin">Beginnen met Bitcoin groep op telegram</a></li>
+          </ul>
+          <p><a target="_blank" href="https://pay.beginnenmetbitcoin.com">Donatielink</a></p>
+          <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
+          <p><a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a></p>
+          <p><audio class="w-100" src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep17-AUP.mp3" preload="none" controls="controls"></audio></p>
+          <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+      ]]></description>
+      <itunes:summary><![CDATA[
+Wat moet je doen als je een node hebt?
+
+    Openen van kanalen, en met wie je dat het beste kan doen
+    Zorgen dat je geld kan ontvangen
+    Kanalen balanceren
+    Fees aanpassen
+    Backups maken
+    Sluiten van kanalen
+    Node online houden
+    Watchtowers, tegen fraude
+    Node gepatcht en veilig houden
+
+Links
+
+    rebalance-lnd, script om te rebalancen
+    Backupscript voor Linux
+    Lightning.Watch, stuurt je een berichtje als je node offline gaat
+    1ml.com, node site
+    LightningNL groep op telegram
+    Beginnen met Bitcoin groep op telegram
+
+      ]]></itunes:summary>
+      <content:encoded><![CDATA[
+          <p><b>Wat moet je doen als je een node hebt?</b></p>
+          <ol>
+            <li>Openen van kanalen, en met wie je dat het beste kan doen</li>
+            <li>Zorgen dat je geld kan ontvangen</li>
+            <li>Kanalen balanceren</li>
+            <li>Fees aanpassen</li>
+            <li>Backups maken</li>
+            <li>Sluiten van kanalen</li>
+            <li>Node online houden</li>
+            <li>Watchtowers, tegen fraude</li>
+            <li>Node gepatcht en veilig houden</li>
+          </ol>
+          <p>Links</p>
+          <ul>
+            <li><a target="_blank" href="https://github.com/C-Otto/rebalance-lnd">rebalance-lnd</a>, script om te rebalancen</li>
+            <li><a target="_blank" href="https://gist.github.com/alexbosworth/2c5e185aedbdac45a03655b709e255a3">Backupscript voor Linux</a></li>
+            <li><a target="_blank" href="https://lightning.watch">Lightning.Watch</a>, stuurt je een berichtje als je node offline gaat</li>
+            <li><a target="_blank" href="https://1ml.com">1ml.com</a>, node site</li>
+            <li><a target="_blank" href="https://mempool.space">mempool.space</a>: hoe staat het ervoor met de mempool?</li>
+            <li><a target="_blank" href="https://cisofy.com/lynis/">Lynis</a> voor je nodebeveiliging</li>
+            <li><a target="_blank" href="https://t.me/lightningnl">LightningNL groep op telegram</a></li>
+            <li><a target="_blank" href="https://t.me/beginnenmetbitcoin">Beginnen met Bitcoin groep op telegram</a></li>
+          </ul>
+          <p><a target="_blank" href="https://pay.beginnenmetbitcoin.com">Donatielink</a></p>
+          <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
+          <p><a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a></p>
+          <p><audio class="w-100" src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep17-AUP.mp3" preload="none" controls="controls"></audio></p>
+          <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+      ]]></content:encoded>
+      <itunes:season>2</itunes:season>
+      <guid>https://beginnenmetbitcoin.com/#ep17</guid>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-rgb.png"/>
+      <itunes:duration>00:20:07</itunes:duration>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep17-AUP.mp3" type="audio/mpeg" length="24446955"/>
+    </item>
+
     <item>
       <link>https://beginnenmetbitcoin.com/#ep16</link>
       <title>Aflevering 16: Lightning: hoe te beginnen, node of wallet?</title>
