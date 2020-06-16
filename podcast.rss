@@ -63,6 +63,48 @@
 
 
     <item>
+      <link>https://beginnenmetbitcoin.com/#ep18</link>
+      <title>Aflevering 18: Lightning: Het Lightning-netwerk</title>
+      <itunes:title>Aflevering 18: Lightning: Het Lightning-netwerk</itunes:title>
+      <description><![CDATA[
+        <h2 class="blog-post-title">Aflevering 18: Lightning: Het Lightning-netwerk</h2>
+        <p class="blog-post-meta">16 juni 2020</p>
+        <div class="shownotes bg-link p-2 p-md-4">
+          <p><b>Het Lightning-netwerk!</b></p>
+          <p><a target="_blank" href="https://pay.beginnenmetbitcoin.com">Donatielink</a></p>
+          <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
+          <p><a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a></p>
+          <p><audio class="w-100" src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep17-AUP.mp3" preload="none" controls="controls"></audio></p>
+          <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+        </div>
+      ]]></description>
+      <itunes:summary><![CDATA[
+        Het Lightning-netwerk!
+      ]]></itunes:summary>
+      <content:encoded><![CDATA[
+        <h2 class="blog-post-title">Aflevering 18: Lightning: Het Lightning-netwerk</h2>
+        <p class="blog-post-meta">16 juni 2020</p>
+        <div class="shownotes bg-link p-2 p-md-4">
+          <p><b>Het Lightning-netwerk!</b></p>
+          <p><a target="_blank" href="https://pay.beginnenmetbitcoin.com">Donatielink</a></p>
+          <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
+          <p><a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a></p>
+          <p><audio class="w-100" src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep17-AUP.mp3" preload="none" controls="controls"></audio></p>
+          <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+        </div>
+      ]]></content:encoded>
+      <itunes:season>2</itunes:season>
+      <guid>https://beginnenmetbitcoin.com/#ep18</guid>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-rgb.png"/>
+      <itunes:duration>00:04:16</itunes:duration>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep18-AUP.mp3" type="audio/mpeg" length="5429812"/>
+    </item>
+
+
+    <item>
       <link>https://beginnenmetbitcoin.com/#ep17</link>
       <title>Aflevering 17: Lightning: Een node beginnen en onderhouden</title>
       <itunes:title>Aflevering 17: Lightning: Een node beginnen en onderhouden</itunes:title>
