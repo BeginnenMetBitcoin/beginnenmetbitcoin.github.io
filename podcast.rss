@@ -35,31 +35,34 @@
       <title>Beginnen met Bitcoin</title>
     </image>
 
-
-    <!--
     <item>
-      <link>https://beginnenmetbitcoin.com/#ep XXX</link>
-      <title>Aflevering XXX: XXX</title>
-      <itunes:title>Aflevering XXX</itunes:title>
+      <link>https://beginnenmetbitcoin.com/#ep29</link>
+      <title>Aflevering 29: Lightning Liquidity Marketplace</title>
+      <itunes:title>Aflevering 29: Lightning Liquidity Marketplace</itunes:title>
       <description><![CDATA[
-        HTML XXX
+          <p><b>Uitleg over de nieuwe Lightning Liquidity Marketplace</b></p>
+          <p><a target="_blank" href="https://pay.beginnenmetbitcoin.com">Bitcoinstickers</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+          <p><audio class="w-100" src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep29-AUP.mp3" preload="none" controls="controls"></audio></p>
       ]]></description>
       <itunes:summary><![CDATA[
-        PLAIN XXX
+Uitleg over de nieuwe Lightning Liquidity Marketplace
+
+https://bitcoinstickers.nl/
       ]]></itunes:summary>
       <content:encoded><![CDATA[
-        HTML XXX
+          <p><b>Uitleg over de nieuwe Lightning Liquidity Marketplace</b></p>
+          <p><a target="_blank" href="https://pay.beginnenmetbitcoin.com">Bitcoinstickers</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+          <p><audio class="w-100" src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep29-AUP.mp3" preload="none" controls="controls"></audio></p>
       ]]></content:encoded>
-      <itunes:season>2</itunes:season>
-      <guid>https://beginnenmetbitcoin.com/#epXXX</guid>
-      <pubDate>Sun, 06 XXX Jun 2020 00:00:00 +0000</pubDate>
+      <itunes:season>3</itunes:season>
+      <guid>https://beginnenmetbitcoin.com/#ep29</guid>
+      <pubDate>Sat, XXXXXXXXXX 15 Aug 2020 00:00:28 +0000</pubDate>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-rgb.png"/>
-      <itunes:duration>00:MMM:XXX</itunes:duration>
-      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/epXXX-AUP.mp3" type="audio/mpeg" length="XXX"/>
+      <itunes:duration>00:19:30</itunes:duration>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep29-AUP.mp3" type="audio/mpeg" length="23710349"/>
     </item>
-    -->
     <item>
       <link>https://beginnenmetbitcoin.com/#ep28</link>
       <title>Aflevering 28: Wat als ik virussen op mijn computer heb icm mijn hardware wallet?</title>
