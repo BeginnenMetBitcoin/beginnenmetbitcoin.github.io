@@ -36,6 +36,29 @@
     </image>
 
     <item>
+      <link>https://beginnenmetbitcoin.com/#ep30</link>
+      <title>Aflevering 30: Podcasten en Lightning!</title>
+      <itunes:title>Aflevering 30: Podcasten en Lightning!</itunes:title>
+      <description><![CDATA[
+        HTML
+      ]]></description>
+      <itunes:summary><![CDATA[
+        PLIAN
+      ]]></itunes:summary>
+      <content:encoded><![CDATA[
+        HTML
+      ]]></content:encoded>
+      <itunes:season>3</itunes:season>
+      <guid>https://beginnenmetbitcoin.com/#ep30</guid>
+      <pubDate>Sat, 7 Nov 2020 00:00:28 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-rgb.png"/>
+      <itunes:duration>00:11:38</itunes:duration>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep30-AUP.mp3" type="audio/mpeg" length="14247169"/>
+    </item>
+
+    <item>
       <link>https://beginnenmetbitcoin.com/#ep29</link>
       <title>Aflevering 29: Lightning Pool</title>
       <itunes:title>Aflevering 29: Lightning Pool</itunes:title>
