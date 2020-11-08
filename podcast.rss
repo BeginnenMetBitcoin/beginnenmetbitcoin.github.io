@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="https://www.google.com/schemas/play-podcasts/1.0/">
+<rss xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Beginnen met Bitcoin</title>
     <description>beginnenmetbitcoin.com</description>
@@ -34,6 +34,10 @@
       <link>https://beginnenmetbitcoin.com/</link>
       <title>Beginnen met Bitcoin</title>
     </image>
+
+    <podcast:value type="lightning" method="keysend" suggested="0.00000015000">
+        <podcast:valueRecipient name="podcaster" type="node" address="03e691f81f08c56fa876cc4ef5c9e8b727bd682cf35605be25d48607a802526053" split="100" />
+    </podcast:value>
 
     <item>
       <link>https://beginnenmetbitcoin.com/#ep30</link>
