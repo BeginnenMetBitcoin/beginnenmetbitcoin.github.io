@@ -297,13 +297,11 @@ https://bitcoinstickers.nl/
       <description><![CDATA[
         <h2 class="blog-post-title">Aflevering 18: Lightning: Het Lightning-netwerk</h2>
         <p class="blog-post-meta">16 juni 2020</p>
-        <div class="shownotes bg-link p-2 p-md-4">
           <p><b>Het Lightning-netwerk!</b></p>
           <p><a target="_blank" href="https://pay.beginnenmetbitcoin.com">Donatielink</a></p>
           <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
           <p><a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a></p>
           <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
-        </div>
       ]]></description>
       <itunes:summary><![CDATA[
         Het Lightning-netwerk!
@@ -392,7 +390,6 @@ Links
       <description><![CDATA[
         <h2 class="blog-post-title">Aflevering 16: Lightning: hoe te beginnen, node of wallet?</h2>
         <p class="blog-post-meta">9 juni 2020</p>
-        <div class="shownotes bg-link p-2 p-md-4">
           <p><b>Hoe begin je met lightning? Wat zijn de keuzes voor wallets of nodes?</b></p>
           <p>Links</p>
           <ul>
@@ -452,15 +449,11 @@ Twitter
           <p><b>Wat als mensen zich niet gedragen op Lightning?</b></p>
           <p>Luister eerst de vorige aflevering!</p>
           <p>Besproken scenarios</p>
-          <p><ul>
+          <ul>
           <li>1. Eerst de normale sluiting, waar beide nodes het eens zijn</li>
           <li>2. Piet gaat offline, en ik kondig netjes de laaste state aan</li>
           <li>3. Piet gaat offline, en ik kondig een oudere state aan, waar ik meer geld krijg dan ik recht op heb</li>
           <li>4. Piet kondigt een oude state aan</li>
-          </ul></p>
-          <p>Links</p>
-          <ul>
-            <li><a target="_blank" href="#">Geen</a></li>
           </ul>
           <p><a target="_blank" href="https://pay.beginnenmetbitcoin.com">Donatielink</a></p>
           <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
@@ -497,7 +490,6 @@ Besproken scenarios
       <description><![CDATA[
         <h2 class="blog-post-title">Aflevering 14: Lightning: wat kan je ermee?</h2>
         <p class="blog-post-meta">1 juni 2020</p>
-        <div class="shownotes bg-link p-2 p-md-4">
           <b>Conceptuele introductie van Lightning, met uitleg wat er op de bitcoin blockchain gebeurt.</b>
           <p>Links</p>
           <ul>
