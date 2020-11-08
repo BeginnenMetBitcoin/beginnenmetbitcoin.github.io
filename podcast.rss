@@ -44,13 +44,23 @@
       <title>Aflevering 30: Podcasten en Lightning!</title>
       <itunes:title>Aflevering 30: Podcasten en Lightning!</itunes:title>
       <description><![CDATA[
-        HTML
+          <p><b>Lightning en Podcasting, een verschrikkelijk logische link</b></p>
+          <p><a href="https://podcastindex.org/">Podcast Index.org</a></p>
+          <p><a href="http://adam.curry.com/html/PC201020201106Podcas-ZV7ms5XRW9t58ntbVrTRT4WJdFKD2p.html">Aflevering podcasting2.0</a></p>
+          <p><a href="http://mp3s.nashownotes.com/pc20rss.xml">Podcastfeed podcasting2.0</a></p>
+          <p><a target="_blank" href="https://pay.beginnenmetbitcoin.com">Bitcoinstickers</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+          <p><audio class="w-100" src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep30-AUP.mp3" preload="none" controls="controls"></audio></p>
       ]]></description>
       <itunes:summary><![CDATA[
-        PLIAN
+        Lightning en Podcasting, een verschrikkelijk logische link
       ]]></itunes:summary>
       <content:encoded><![CDATA[
-        HTML
+          <p><b>Lightning en Podcasting, een verschrikkelijk logische link</b></p>
+          <p><a href="https://podcastindex.org/">Podcast Index.org</a></p>
+          <p><a href="http://adam.curry.com/html/PC201020201106Podcas-ZV7ms5XRW9t58ntbVrTRT4WJdFKD2p.html">Aflevering podcasting2.0</a></p>
+          <p><a href="http://mp3s.nashownotes.com/pc20rss.xml">Podcastfeed podcasting2.0</a></p>
+          <p><a target="_blank" href="https://pay.beginnenmetbitcoin.com">Bitcoinstickers</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+          <p><audio class="w-100" src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep30-AUP.mp3" preload="none" controls="controls"></audio></p>
       ]]></content:encoded>
       <itunes:season>3</itunes:season>
       <guid>https://beginnenmetbitcoin.com/#ep30</guid>
