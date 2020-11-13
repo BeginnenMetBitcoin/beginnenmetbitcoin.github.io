@@ -34,7 +34,8 @@
     <atom:link href="https://beginnenmetbitcoin.com/podcast.rss" rel="self" type="application/rss+xml" />
 
     <podcast:value type="lightning" method="keysend" suggested="0.00000015000">
-        <podcast:valueRecipient name="podcaster" type="node" address="03e691f81f08c56fa876cc4ef5c9e8b727bd682cf35605be25d48607a802526053" split="100" />
+        <podcast:valueRecipient name="podcaster" type="node" address="03e691f81f08c56fa876cc4ef5c9e8b727bd682cf35605be25d48607a802526053" split="98" />
+        <podcast:valueRecipient name="Podcastindex.org" type="node" address="03ae9f91a0cb8ff43840e3c322c4c61f019d8c1c3cea15a25cfc425ac605e61a4a" split="2" />
     </podcast:value>
 
     <item>
