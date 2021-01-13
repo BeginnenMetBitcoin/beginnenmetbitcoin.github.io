@@ -39,6 +39,31 @@
     </podcast:value>
 
     <item>
+      <link>https://beginnenmetbitcoin.com/#20210113-Geldvrienden</link>
+      <title>Gastpodcast: Bitcoin en wat moet je er als Geldvriend mee?</title>
+      <itunes:title>Gastpodcast: Bitcoin en wat moet je er als Geldvriend mee?</itunes:title>
+      <description><![CDATA[
+        <p>De Bitcoin FOMO is aan, recordhoogtes worden bereikt en je geldvrienden praten met Marnix van de podcast <strong>Beginnen met Bitcoin</strong>. We houden het luchtig en praten over wat de plek van bitcoin is voor de belegger? Oftewel, kunnen je geldvrienden er wat mee?</p>
+<p><strong>Links:</strong></p>
+<ul>
+  <li><a href="https://beginnenmetbitcoin.com">Beginnen met bitcoin podcast</a></li>
+  <li><a href="https://storingbitcoin.info/#/start">storingbitcoin.info</a></li>
+  <li><a href="https://raw.githubusercontent.com/BeginnenMetBitcoin/beginnenmetbitcoin.github.io/master/assets/kaas.png">Kijk voor de gein eens naar deze tijdlijn van de cryptomarktleiders over de jaren.</a></li>
+</ul>
+      ]]></description>
+      <itunes:summary><![CDATA[
+    De Bitcoin FOMO is aan, recordhoogtes worden bereikt en je geldvrienden praten met Marnix van de podcast <strong>Beginnen met Bitcoin</strong>. We houden het luchtig en praten over wat de plek van bitcoin is voor de belegger? Oftewel, kunnen je geldvrienden er wat mee?
+      ]]></itunes:summary>
+      <guid>https://beginnenmetbitcoin.com/#20210113-Geldvrienden</guid>
+      <pubDate>Wed, 13 Jan 2021 00:00:01 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://beginnenmetbitcoin.com/assets/geldvrienden.jpg"/>
+      <itunes:duration>00:56:22</itunes:duration>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/20210113-Geldvrienden.mp3" type="audio/mpeg" length="40020185"/>
+    </item>
+
+    <item>
       <link>https://beginnenmetbitcoin.com/#ep30</link>
       <title>Aflevering 30: Podcasten en Lightning!</title>
       <itunes:title>Aflevering 30: Podcasten en Lightning!</itunes:title>
