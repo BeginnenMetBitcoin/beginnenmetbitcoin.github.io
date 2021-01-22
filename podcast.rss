@@ -39,6 +39,163 @@
     </podcast:value>
 
     <item>
+      <link>https://beginnenmetbitcoin.com/#ep36</link>
+      <title>Aflevering 36: Segwit en het verschil tussen sat/byte en sat/vbyte</title>
+      <itunes:title>Aflevering 36: Segwit en het verschil tussen sat/byte en sat/vbyte</itunes:title>
+      <description><![CDATA[
+          <p><b>Je wilt onchain een betaling doen, of een kanaal openene. Hoe bepaal je de Fees?</b></p>
+          <p><a href="https://mempool.space/">mempool.space</a></p>
+          <p><a target="_blank" href="https://bitcoinstickers.nl/">Bitcoinstickers</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+      ]]></description>
+      <itunes:summary><![CDATA[
+        Sinds 2017 zijn transacties goedkoper. Waarom? En wat zijn vbytes?
+      ]]></itunes:summary>
+      <itunes:season>3</itunes:season>
+      <guid>https://beginnenmetbitcoin.com/#ep36</guid>
+      <pubDate>Fri, 22 Jan 2021 00:00:36 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-rgb.png"/>
+      <itunes:duration>00:07:30</itunes:duration>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep34-AUP.mp3" type="audio/mpeg" length="9290695"/>
+    </item>
+
+
+    <item>
+      <link>https://beginnenmetbitcoin.com/#ep35</link>
+      <title>Aflevering 35: Fees inschatten (voor onchain betalingen)</title>
+      <itunes:title>Aflevering 35: Fees inschatten (voor onchain betalingen)</itunes:title>
+      <description><![CDATA[
+          <p><b>Je hebt nu een node, maar naar wie open je kanalen? En hoe groot?</b></p>
+          <p><a href="https://getumbrel.com/">Umbrel Nodesoftware</a></p>
+          <p><a href="https://1ml.com">1ml.com nodelijst</a></p>
+          <p><a href="https://1ml.com/node/03e691f81f08c56fa876cc4ef5c9e8b727bd682cf35605be25d48607a802526053">Node van je podcasthost</a></p>
+          <p><a href="https://lightningwiki.net/bos/">BOS-lijst met scores</a></p>
+          <p><a href="https://t.me/lightningnl">LightningNL discussiekanaal op Telegram</a></p>
+          <p><a target="_blank" href="https://bitcoinstickers.nl/">Bitcoinstickers</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+      ]]></description>
+      <itunes:summary><![CDATA[
+        Je wilt onchain een betaling doen, of een kanaal openene. Hoe bepaal je de Fees?
+
+mempool.space
+      ]]></itunes:summary>
+      <itunes:season>3</itunes:season>
+      <guid>https://beginnenmetbitcoin.com/#ep35</guid>
+      <pubDate>Fri, 22 Jan 2021 00:00:35 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-rgb.png"/>
+      <itunes:duration>00:11:02</itunes:duration>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep35-AUP.mp3" type="audio/mpeg" length="13527234"/>
+    </item>
+
+
+    <item>
+      <link>https://beginnenmetbitcoin.com/#ep34</link>
+      <title>Aflevering 34: Lightningkanalen openen: naar wie en hoe groot?</title>
+      <itunes:title>Aflevering 34: Lightningkanalen openen: naar wie en hoe groot?</itunes:title>
+      <description><![CDATA[
+          <p><b>Bitcoin kopen bij je reguliere broker: het kan!</b></p>
+          <p><a href="https://www.amdaxgroup.com/nl/">AMDAX Crypto Vermogensbeheer</a></p>
+          <p><a href="https://www.vanecketfs.nl/producten/VanEck-Vectors-Bitcoin-ETN/32/overzicht">VanEck ETN</a></p>
+          <p><a href="https://www.morningstar.nl/nl/etf/snapshot/snapshot.aspx?id=0P0001B6WD">Bitcoin Tracker</a></p>
+          <p><a target="_blank" href="https://bitcoinstickers.nl/">Bitcoinstickers</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+      ]]></description>
+      <itunes:summary><![CDATA[
+      Je hebt nu een node, maar naar wie open je kanalen? En hoe groot?
+      ]]></itunes:summary>
+      <itunes:season>3</itunes:season>
+      <guid>https://beginnenmetbitcoin.com/#ep34</guid>
+      <pubDate>Fri, 22 Jan 2021 00:00:34 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-rgb.png"/>
+      <itunes:duration>00:06:37</itunes:duration>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep34-AUP.mp3" type="audio/mpeg" length="8236393"/>
+    </item>
+
+
+    <item>
+      <link>https://beginnenmetbitcoin.com/#ep33</link>
+      <title>Aflevering 33: Bitcoinproducten, ETFs, ETNs, fondsen</title>
+      <itunes:title>Aflevering 33: Bitcoinproducten, ETFs, ETNs, fondsen</itunes:title>
+      <description><![CDATA[
+          <p><b>Bitcoin kopen bij je reguliere broker: het kan!</b></p>
+          <p><a href="https://www.amdaxgroup.com/nl/">AMDAX Crypto Vermogensbeheer</a></p>
+          <p><a href="https://www.vanecketfs.nl/producten/VanEck-Vectors-Bitcoin-ETN/32/overzicht">VanEck ETN</a></p>
+          <p><a href="https://www.morningstar.nl/nl/etf/snapshot/snapshot.aspx?id=0P0001B6WD">Bitcoin Tracker</a></p>
+          <p><a target="_blank" href="https://bitcoinstickers.nl/">Bitcoinstickers</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+      ]]></description>
+      <itunes:summary><![CDATA[
+        Bitcoin kopen bij je reguliere broker: het kan!
+      ]]></itunes:summary>
+      <itunes:season>3</itunes:season>
+      <guid>https://beginnenmetbitcoin.com/#ep33</guid>
+      <pubDate>Fri, 22 Jan 2021 00:00:33 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-rgb.png"/>
+      <itunes:duration>00:06:19</itunes:duration>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep33-AUP.mp3" type="audio/mpeg" length="7868589"/>
+    </item>
+
+
+    <item>
+      <link>https://beginnenmetbitcoin.com/#ep32</link>
+      <title>Aflevering 32: Beveilig je bitcoin met multisig</title>
+      <itunes:title>Aflevering 32: Beveilig je bitcoin met multisig</itunes:title>
+      <description><![CDATA[
+          <p><b>Multisig kan helpen om je bitcoin beter te beveiligen</b></p>
+          <p><a href="https://specter.solutions/">Specter Wallet</a></p>
+          <p><a href="https://electrum.org/#home">Electrum</a></p>
+          <p><a href="https://unchained-capital.github.io/caravan/">Caravan</a></p>
+          <p><a target="_blank" href="https://bitcoinstickers.nl/">Bitcoinstickers</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+        
+      ]]></description>
+      <itunes:summary><![CDATA[
+        Multisig kan helpen om je bitcoin beter te beveiligen
+
+Specter Wallet
+
+Electrum
+
+Caravan
+      ]]></itunes:summary>
+      <itunes:season>3</itunes:season>
+      <guid>https://beginnenmetbitcoin.com/#ep32</guid>
+      <pubDate>Fri, 22 Jan 2021 00:00:32 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-rgb.png"/>
+      <itunes:duration>00:13:21</itunes:duration>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep32-AUP.mp3" type="audio/mpeg" length="16320753"/>
+    </item>
+
+
+    <item>
+      <link>https://beginnenmetbitcoin.com/#ep31</link>
+      <title>Aflevering 31: Hoe sla je je bitcoin op: storingbitcoin.info</title>
+      <itunes:title>Aflevering 31: Hoe sla je je bitcoin op: storingbitcoin.info</itunes:title>
+      <description><![CDATA[
+          <p><b>StoringBitcoin.info helpt je een strategie voor opslaan van je bitcoin te bepalen</b></p>
+          <p><a href="https://storingbitcoin.info/">StoringBitcoin.info</a></p>
+          <p><a target="_blank" href="https://bitcoinstickers.nl/">Bitcoinstickers</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+      ]]></description>
+      <itunes:summary><![CDATA[
+      StoringBitcoin.info helpt je een strategie voor opslaan van je bitcoin te bepalen
+      ]]></itunes:summary>
+      <itunes:season>3</itunes:season>
+      <guid>https://beginnenmetbitcoin.com/#ep31</guid>
+      <pubDate>Fri, 22 Jan 2021 00:00:31 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-rgb.png"/>
+      <itunes:duration>00:05:00</itunes:duration>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep31-AUP.mp3" type="audio/mpeg" length="6296018"/>
+    </item>
+
+
+    <item>
       <link>https://beginnenmetbitcoin.com/#20210113-Geldvrienden</link>
       <title>Gastpodcast: Bitcoin en wat moet je er als Geldvriend mee?</title>
       <itunes:title>Gastpodcast: Bitcoin en wat moet je er als Geldvriend mee?</itunes:title>
