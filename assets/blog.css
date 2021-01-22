@@ -80,15 +80,16 @@ h1, h2, h3, h4, h5, h6 {
  * Blog posts
  */
 .blog-post {
-  margin-bottom: 4rem;
+  margin-bottom: 1.5rem;
 }
 .blog-post-title {
   margin-bottom: .25rem;
   font-size: 2.5rem;
 }
 .blog-post-meta {
-  margin-bottom: 1.25rem;
+  margin-bottom: .25rem;
   color: #999;
+  text-align: right;
 }
 
 /*
@@ -110,6 +111,8 @@ h1, h2, h3, h4, h5, h6 {
 .shownotes{
   border-radius: 3px;
   background:#eee;
+  padding: 1rem !important;
+  margin: 0.5rem 0;
 }
 
 
