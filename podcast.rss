@@ -43,7 +43,7 @@
       <title>Aflevering 36: Segwit en het verschil tussen sat/byte en sat/vbyte</title>
       <itunes:title>Aflevering 36: Segwit en het verschil tussen sat/byte en sat/vbyte</itunes:title>
       <description><![CDATA[
-          <p><b>Je wilt onchain een betaling doen, of een kanaal openene. Hoe bepaal je de Fees?</b></p>
+          <p><b>Je wilt onchain een betaling doen, of een kanaal openen. Hoe bepaal je de Fees?</b></p>
           <p><a href="https://mempool.space/">mempool.space</a></p>
           <p><a target="_blank" href="https://bitcoinstickers.nl/">Bitcoinstickers</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
       ]]></description>
@@ -66,18 +66,12 @@
       <title>Aflevering 35: Fees inschatten (voor onchain betalingen)</title>
       <itunes:title>Aflevering 35: Fees inschatten (voor onchain betalingen)</itunes:title>
       <description><![CDATA[
-          <p><b>Je hebt nu een node, maar naar wie open je kanalen? En hoe groot?</b></p>
-          <p><a href="https://getumbrel.com/">Umbrel Nodesoftware</a></p>
-          <p><a href="https://1ml.com">1ml.com nodelijst</a></p>
-          <p><a href="https://1ml.com/node/03e691f81f08c56fa876cc4ef5c9e8b727bd682cf35605be25d48607a802526053">Node van je podcasthost</a></p>
-          <p><a href="https://lightningwiki.net/bos/">BOS-lijst met scores</a></p>
-          <p><a href="https://t.me/lightningnl">LightningNL discussiekanaal op Telegram</a></p>
+          <p><b>Je wilt onchain een betaling doen, of een kanaal openen. Hoe bepaal je de Fees?</b></p>
+          <p><a href="https://mempool.space/">mempool.space</a></p>
           <p><a target="_blank" href="https://bitcoinstickers.nl/">Bitcoinstickers</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
       ]]></description>
       <itunes:summary><![CDATA[
-        Je wilt onchain een betaling doen, of een kanaal openene. Hoe bepaal je de Fees?
-
-mempool.space
+ Je wilt onchain een betaling doen, of een kanaal openen. Hoe bepaal je de Fees?
       ]]></itunes:summary>
       <itunes:season>3</itunes:season>
       <guid>https://beginnenmetbitcoin.com/#ep35</guid>
