@@ -40,6 +40,73 @@
     <podcast:funding url="https://bitcoinstickers.nl/">Doe een donatie of koop stickers op bitcoinstickers.nl</podcast:funding>
 
     <item>
+      <link>https://beginnenmetbitcoin.com/#ep40</link>
+      <title>Aflevering 40: Bitcoin risicoloos uitproberen op testnet</title>
+      <itunes:title>Aflevering 40: Bitcoin risicoloos uitproberen op testnet</itunes:title>
+      <description><![CDATA[
+          <p><b>Even wat transacties testen op mainnet is best duur. Wat is mainnet? Wat zijn de alternatieven?</b></p>
+          <p><a href="https://mempool.space">Mempool.space</a></p>
+          <p><a href="https://mempool.space/testnet">Mempool.space voor testnet</a></p>
+          <p><a target="_blank" href="https://bitcoinstickers.nl/">Bitcoinstickers</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+      ]]></description>
+      <itunes:summary><![CDATA[
+        Even wat transacties testen op mainnet is best duur. Wat is mainnet? Wat zijn de alternatieven?
+      ]]></itunes:summary>
+      <itunes:season>3</itunes:season>
+      <guid>https://beginnenmetbitcoin.com/#ep40</guid>
+      <pubDate>Sat, 14 May 2021 00:00:40 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-rgb.png"/>
+      <itunes:duration>00:09:31</itunes:duration>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep40-AUP.mp3" type="audio/mpeg" length="11718500"/>
+    </item>
+
+    <item>
+      <link>https://beginnenmetbitcoin.com/#ep39</link>
+      <title>Aflevering 39: UTXO’s goedkoop samenvoegen</title>
+      <itunes:title>Aflevering 39: UTXO’s goedkoop samenvoegen</itunes:title>
+      <description><![CDATA[
+          <p><b>Als het rustig is op de memppol is er geld te besparen! Hoe je dat doet hoor je in deze podcast.</b></p>
+          <p><a href="https://mempool.space">Mempool.space</a></p>
+          <p><a target="_blank" href="https://bitcoinstickers.nl/">Bitcoinstickers</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+      ]]></description>
+      <itunes:summary><![CDATA[
+        Als het rustig is op de memppol is er geld te besparen! Hoe je dat doet hoor je in deze podcast.
+      ]]></itunes:summary>
+      <itunes:season>3</itunes:season>
+      <guid>https://beginnenmetbitcoin.com/#ep39</guid>
+      <pubDate>Sat, 14 May 2021 00:00:39 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-rgb.png"/>
+      <itunes:duration>00:06:59</itunes:duration>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep39-AUP.mp3" type="audio/mpeg" length="8680981"/>
+    </item>
+
+    <item>
+      <link>https://beginnenmetbitcoin.com/#ep38</link>
+      <title>Aflevering 38: “De mempool” bestaat niet</title>
+      <itunes:title>Aflevering 38: “De mempool” bestaat niet</itunes:title>
+      <description><![CDATA[
+          <p><b>Iedereen zijn mempool is anders, er is geen globale mempool. Deze aflevering legt uit waarom.</b></p>
+          <p><a href="https://mempool.space">Mempool.space</a></p>
+          <p><a target="_blank" href="https://bitcoinstickers.nl/">Bitcoinstickers</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+      ]]></description>
+      <itunes:summary><![CDATA[
+        Iedereen zijn mempool is anders, er is geen globale mempool. Deze aflevering legt uit waarom.
+      ]]></itunes:summary>
+      <itunes:season>3</itunes:season>
+      <guid>https://beginnenmetbitcoin.com/#ep38</guid>
+      <pubDate>Sat, 14 May 2021 00:00:38 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-rgb.png"/>
+      <itunes:duration>00:06:29</itunes:duration>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/ep38-AUP.mp3" type="audio/mpeg" length="8084344"/>
+    </item>
+
+    <item>
       <link>https://beginnenmetbitcoin.com/#ep37</link>
       <title>Aflevering 37: Verbeteringen Schnorr en Taproot, en hoe activeren?</title>
       <itunes:title>Aflevering 37: Verbeteringen Schnorr en Taproot, en hoe activeren?</itunes:title>
