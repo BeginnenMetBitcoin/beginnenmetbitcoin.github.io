@@ -39,6 +39,32 @@
     <podcast:locked owner="abellykens@pm.me">no</podcast:locked>
     <podcast:funding url="https://bitcoinstickers.nl/">Doe een donatie of koop stickers op bitcoinstickers.nl</podcast:funding>
 
+    
+    <item>
+      <link>https://beginnenmetbitcoin.com/#s02e01</link>
+      <title>Aflevering 1: Waarom is bitcoin belangrijk en anders? (Seizoen 2)</title>
+      <itunes:title>Aflevering 1: Waarom is bitcoin belangrijk en anders? (Seizoen 2)</itunes:title>
+      <description><![CDATA[
+           <b>Een nieuw seizoen!</b>
+            <p>Een nieuw seizoen, een betere podcast!</p>
+            <p>In deze aflevering leggen we de basisprincipes achter bitcoin uit. En waarom bitcoin anders is dan het geldsysteem dat je kent.</p>
+            <p><audio class="w-100" src="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/s02e01-AUP.mp3" preload="none" controls="controls"></audio></p>
+            <p><a target="_blank" href="https://znip.nl/">ZNIP.nl</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>        
+      ]]></description>
+      <itunes:summary><![CDATA[
+Een nieuw seizoen, een betere podcast!
+
+In deze aflevering leggen we de basisprincipes achter bitcoin uit. En waarom bitcoin anders is dan het geldsysteem dat je kent.      ]]></itunes:summary>
+      <itunes:season>4</itunes:season>
+      <guid>https://beginnenmetbitcoin.com/#ep40</guid>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-rgb-2021.png"/>
+      <itunes:duration>00:38:25</itunes:duration>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/s02e01-AUP.mp3" type="audio/mpeg" length="36883701"/>
+    </item>
+    
     <item>
       <link>https://beginnenmetbitcoin.com/#ep40</link>
       <title>Aflevering 40: Bitcoin risicoloos uitproberen op testnet</title>
