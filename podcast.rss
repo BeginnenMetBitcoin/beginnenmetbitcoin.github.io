@@ -42,8 +42,8 @@
     
     <item>
       <link>https://beginnenmetbitcoin.com/#s02e01</link>
-      <title>Aflevering 1: Waarom is bitcoin belangrijk en anders? (Seizoen 2)</title>
-      <itunes:title>Aflevering 1: Waarom is bitcoin belangrijk en anders? (Seizoen 2)</itunes:title>
+      <title>1: Waarom is bitcoin belangrijk en anders? (Seizoen 2)</title>
+      <itunes:title>1: Waarom is bitcoin belangrijk en anders? (Seizoen 2)</itunes:title>
       <description><![CDATA[
            <b>Een nieuw seizoen!</b>
             <p>Een nieuw seizoen, een betere podcast!</p>
@@ -56,13 +56,13 @@ Een nieuw seizoen, een betere podcast!
 
 In deze aflevering leggen we de basisprincipes achter bitcoin uit. En waarom bitcoin anders is dan het geldsysteem dat je kent.      ]]></itunes:summary>
       <itunes:season>4</itunes:season>
-      <guid>https://beginnenmetbitcoin.com/#s02e01</guid>
-      <pubDate>Thu, 20 Oct 2022 00:00:01 +0000</pubDate>
+      <guid>https://beginnenmetbitcoin.com/#2x01</guid>
+      <pubDate>Fri, 21 Oct 2022 00:00:01 +0000</pubDate>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-rgb-2021.png"/>
       <itunes:duration>00:38:25</itunes:duration>
-      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/s02e01-AUP.mp3" type="audio/mpeg" length="36883701"/>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/s02e01-AUP.mp3?" type="audio/mpeg" length="36883701"/>
     </item>
     
     <item>
