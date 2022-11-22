@@ -39,6 +39,43 @@
     <podcast:locked owner="abellykens@pm.me">no</podcast:locked>
     <podcast:funding url="https://bitcoinstickers.nl/">Doe een donatie of koop stickers op bitcoinstickers.nl</podcast:funding>
 
+    <item>
+      <link>https://beginnenmetbitcoin.com/#s02e02</link>
+      <title>2: Bitcoin's meest kenmerkende eigenschappen (Seizoen 2)</title>
+      <itunes:title>2: Bitcoin's meest kenmerkende eigenschappen (Seizoen 2)</itunes:title>
+      <description><![CDATA[
+                  <p>Een nieuw seizoen, een betere podcast!</p>
+            <p>Waar we het in de vorige episode hebben gehad over de basis, gaan we het vandaag hebben over bitcoin’s meest kenmerkende eigenschappen.</p>
+            <p>We gaan het hebben over:</p>
+            <ul>
+              <li>Schaarste: er komen er 21 miljoen</li>
+              <li>Controleerbaarheid: iedereen kan regels checken</li>
+              <li>Onveranderlijk basisregels</li>
+              <li>Toegankelijkheid: Het is een open netwerk > dus iedereen mag en kan meedoen</li>
+              <li>Zelfbeheer / BYOB: Tot slot, je kan het zelf in beheer nemen ondakns dat het digitaal is</li>
+            <ul>
+          <p>Bronnen</p>
+              <ul>
+                <li><a href="https://brandonquittem.com/bitcoin-is-the-mycelium-of-money/">Bitcoin is The Mycelium of Money - Brandon Quittem</a></li>
+                <li><a href="https://www.youtube.com/watch?v=dTcNITKt0h0">Bitcoin Is Borderless w/ Obi Nwosu, Lyudmyla Kozlovska, Jaroslav Likhachevsky, and Anna Chekhovi</a></li>
+              </ul>
+            <p><a target="_blank" href="https://znip.nl/">ZNIP.nl</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+
+      ]]></description>
+      <itunes:summary><![CDATA[
+Een nieuw seizoen, een betere podcast!
+
+Waar we het in de vorige episode hebben gehad over de basis, gaan we het vandaag hebben over bitcoin’s meest kenmerkende eigenschappen      ]]></itunes:summary>
+      <itunes:season>4</itunes:season>
+      <guid>https://beginnenmetbitcoin.com/#2x02</guid>
+      <pubDate>Tue, 22 Nov 2022 16:00:01 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-rgb-2021.png"/>
+      <itunes:duration>00:47:40</itunes:duration>
+      <enclosure url="https://ipfs.io/ipns/QmWgJh8zA1rsN4DLwLR5PT2oBDQgrSiACBArRZzZznRRw6/mp3/s02e01-AUP.mp3?" type="audio/mpeg" length="40046921"/>
+    </item>
+    
     
     <item>
       <link>https://beginnenmetbitcoin.com/#s02e01</link>
