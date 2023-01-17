@@ -39,8 +39,32 @@
     <podcast:locked owner="abellykens@pm.me">no</podcast:locked>
     <podcast:funding url="https://bitcoinstickers.nl/">Doe een donatie of koop stickers op bitcoinstickers.nl</podcast:funding>
 
+
     <item>
-      <link>https://beginnenmetbitcoin.com/#s02e02</link>
+      <link>https://beginnenmetbitcoin.com/#s02e04</link>
+      <title>4: Wat zijn de beste manieren om bitcoin zelf te bewaren? (Seizoen 2)</title>
+      <itunes:title>4: Wat zijn de beste manieren om bitcoin zelf te bewaren? (Seizoen 2)</itunes:title>
+      <description><![CDATA[
+             <p>Vandaag gaan we in op de praktische zaken omtrent zelfbeheer. Welke wallets zijn er eigenlijk? En hoe kun je je beschermen tegen verschillende risicio's als het gaat om bitcoin zelfbeheer?</p>
+                 <p><a target="_blank" href="https://znip.nl/">ZNIP.nl</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+      ]]></description>
+      <itunes:summary><![CDATA[
+            Vandaag gaan we in op de praktische zaken omtrent zelfbeheer. Welke wallets zijn er eigenlijk? En hoe kun je je beschermen tegen verschillende risicio's als het gaat om bitcoin zelfbeheer?
+
+      ]]></itunes:summary>
+      <itunes:season>4</itunes:season>
+      <guid>https://beginnenmetbitcoin.com/s02e04</guid>
+      <pubDate>Tue, 17 Jan 2023 07:48:00 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://beginnenmetbitcoin.com/assets/Logo-big-rgb-2021.png"/>
+      <itunes:duration>00:57:32</itunes:duration>
+      <enclosure url="https://cloud.znip.nl/nextcloud/index.php/s/ayxmGHeJQeLxYtA/download/s02e04.mp3" type="audio/mpeg" length="48334372"/>
+    </item>
+    
+
+    <item>
+      <link>https://beginnenmetbitcoin.com/#s02e03</link>
       <title>3: Vertrouw derde partijen niet met uw bitcoin! Waarom zelfbeheer? (Seizoen 2)</title>
       <itunes:title>3: Vertrouw derde partijen niet met uw bitcoin! Waarom zelfbeheer? (Seizoen 2)</itunes:title>
       <description><![CDATA[
@@ -48,7 +72,7 @@
 
       ]]></description>
       <itunes:summary><![CDATA[
-            In deze aflevering gaan we het hebben over het bewaren van je bitcoin. Waarom moet je bitcoin zelf in beheer nemen en hoe werkt dat? Hebben de andere eigenschappen van bitcoin wel nut als je bitcoin niet zelf in beheer neemt? Als bitcoingebruiker kan je ervoor kiezen om je bitcoin te stallen bij een handelsplatform of als een soort aandeel op de beurs . Maar wat zijn de risico's hiervan? Waarom is bitcoin zelfbeheer dan zo belangrijk?<
+            In deze aflevering gaan we het hebben over het bewaren van je bitcoin. Waarom moet je bitcoin zelf in beheer nemen en hoe werkt dat? Hebben de andere eigenschappen van bitcoin wel nut als je bitcoin niet zelf in beheer neemt? Als bitcoingebruiker kan je ervoor kiezen om je bitcoin te stallen bij een handelsplatform of als een soort aandeel op de beurs . Maar wat zijn de risico's hiervan? Waarom is bitcoin zelfbeheer dan zo belangrijk?
 
       ]]></itunes:summary>
       <itunes:season>4</itunes:season>
