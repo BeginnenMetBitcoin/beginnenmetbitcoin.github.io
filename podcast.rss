@@ -1,6 +1,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beginnen met Bitcoin</title>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
     <description>beginnenmetbitcoin.com</description>
     <managingEditor>abellykens@pm.me (Beginnen met Bitcoin)</managingEditor>
     <copyright>© 2020 beginnenmetbitcoin.com</copyright>
@@ -45,13 +46,14 @@
       <title>S2 Afl 4: Wat zijn de beste manieren om bitcoin zelf te bewaren?</title>
       <itunes:title>S2 Afl 4: Wat zijn de beste manieren om bitcoin zelf te bewaren?</itunes:title>
       <description><![CDATA[
-      <p> In de aflevering van vandaag gaan we het hebben over het opslaan van je bitcoin. We gaan vooral in op de praktische zaken omtrent zelfbeheer. Welke wallets zijn er eigenlijk? En hoe kun je je beschermen tegen verschillende risicio's als het gaat om bitcoin zelfbeheer? Wat moet je juist wel doen en wat niet. Kortom deze aflevering zit vol tips, tricks en ?hardware wallet etende honden? . Marnix, Serhan en Jos vertellen jullie hier vandaag meer over. </p>
+      <p> In de aflevering van vandaag gaan we het hebben over het opslaan van je bitcoin. We gaan vooral in op de praktische zaken omtrent zelfbeheer. Welke wallets zijn er eigenlijk? En hoe kun je je beschermen tegen verschillende risicio's als het gaat om bitcoin zelfbeheer? Wat moet je juist wel doen en wat niet. Kortom deze aflevering zit vol tips, tricks en -hardware wallet etende honden- . Marnix, Serhan en Jos vertellen jullie hier vandaag meer over. </p>
             <ul>
               <li><a href="https://www.fountain.fm/join-fountain" target="_blank">Fountain podcast v4v proberen</a></li>
               <li><a href="https://www.ministryofnodes.com.au/sparrow-wallet-101-self-custody-your-bitcoin" target="_blank">Sparrow wallet installatie guide</a></li>
               <li><a href="https://www.youtube.com/watch?v=jbXpEESxiGc" target="_blank">RTL nieuws item klikte cut in plaats van copy...</a></li>
               <li><a href="https://www.youtube.com/watch?v=sAoqa8tedLE" target="_blank">Vincent Everts overvallen item </a></li>
             </ul>                 <p><a target="_blank" href="https://znip.nl/">ZNIP.nl</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
             Vandaag gaan we in op de praktische zaken omtrent zelfbeheer. Welke wallets zijn er eigenlijk? En hoe kun je je beschermen tegen verschillende risicio's als het gaat om bitcoin zelfbeheer?
@@ -75,6 +77,7 @@
       <description><![CDATA[
             <p>In deze aflevering gaan we het hebben over het bewaren van je bitcoin. Waarom moet je bitcoin zelf in beheer nemen en hoe werkt dat? Hebben de andere eigenschappen van bitcoin wel nut als je bitcoin niet zelf in beheer neemt? Als bitcoingebruiker kan je ervoor kiezen om je bitcoin te stallen bij een handelsplatform of als een soort aandeel op de beurs . Maar wat zijn de risico's hiervan? Waarom is bitcoin zelfbeheer dan zo belangrijk?</p>
 
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
             In deze aflevering gaan we het hebben over het bewaren van je bitcoin. Waarom moet je bitcoin zelf in beheer nemen en hoe werkt dat? Hebben de andere eigenschappen van bitcoin wel nut als je bitcoin niet zelf in beheer neemt? Als bitcoingebruiker kan je ervoor kiezen om je bitcoin te stallen bij een handelsplatform of als een soort aandeel op de beurs . Maar wat zijn de risico's hiervan? Waarom is bitcoin zelfbeheer dan zo belangrijk?
@@ -112,6 +115,7 @@
               </ul>
             <p><a target="_blank" href="https://znip.nl/">ZNIP.nl</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
 
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
 Een nieuw seizoen, een betere podcast!
@@ -138,6 +142,7 @@ Waar we het in de vorige episode hebben gehad over de basis, gaan we het vandaag
             <p>In deze aflevering leggen we de basisprincipes achter bitcoin uit. En waarom bitcoin anders is dan het geldsysteem dat je kent.</p>
             <p><audio class="w-100" src="https://znip.nl/mp3/s02e01-AUP.mp3" preload="none" controls="controls"></audio></p>
             <p><a target="_blank" href="https://znip.nl/">ZNIP.nl</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>        
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
 Een nieuw seizoen, een betere podcast!
@@ -162,6 +167,7 @@ In deze aflevering leggen we de basisprincipes achter bitcoin uit. En waarom bit
           <p><a href="https://mempool.space">Mempool.space</a></p>
           <p><a href="https://mempool.space/testnet">Mempool.space voor testnet</a></p>
           <p><a target="_blank" href="https://bitcoinstickers.nl/">Bitcoinstickers</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
         Even wat transacties testen op mainnet is best duur. Wat is mainnet? Wat zijn de alternatieven?
@@ -185,6 +191,7 @@ In deze aflevering leggen we de basisprincipes achter bitcoin uit. En waarom bit
           <p><b>Als het rustig is op de memppol is er geld te besparen! Hoe je dat doet hoor je in deze podcast.</b></p>
           <p><a href="https://mempool.space">Mempool.space</a></p>
           <p><a target="_blank" href="https://bitcoinstickers.nl/">Bitcoinstickers</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
         Als het rustig is op de memppol is er geld te besparen! Hoe je dat doet hoor je in deze podcast.
@@ -207,6 +214,7 @@ In deze aflevering leggen we de basisprincipes achter bitcoin uit. En waarom bit
           <p><b>Iedereen zijn mempool is anders, er is geen globale mempool. Deze aflevering legt uit waarom.</b></p>
           <p><a href="https://mempool.space">Mempool.space</a></p>
           <p><a target="_blank" href="https://bitcoinstickers.nl/">Bitcoinstickers</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
         Iedereen zijn mempool is anders, er is geen globale mempool. Deze aflevering legt uit waarom.
@@ -229,6 +237,7 @@ In deze aflevering leggen we de basisprincipes achter bitcoin uit. En waarom bit
           <p><b>Er komen verbeteringen aan: Schnorr en Taproot. Wat betekent het en hoe activeren we?</b></p>
           <p><a href="https://taproot.watch">Taproot.Watch</a></p>
           <p><a target="_blank" href="https://bitcoinstickers.nl/">Bitcoinstickers</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
         Er komen verbeteringen aan: Schnorr en Taproot. Wat betekent het en hoe activeren we?
@@ -251,6 +260,7 @@ In deze aflevering leggen we de basisprincipes achter bitcoin uit. En waarom bit
           <p><b>Je wilt onchain een betaling doen, of een kanaal openen. Hoe bepaal je de Fees?</b></p>
           <p><a href="https://mempool.space/">mempool.space</a></p>
           <p><a target="_blank" href="https://bitcoinstickers.nl/">Bitcoinstickers</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
         Sinds 2017 zijn transacties goedkoper. Waarom? En wat zijn vbytes?
@@ -274,6 +284,7 @@ In deze aflevering leggen we de basisprincipes achter bitcoin uit. En waarom bit
           <p><b>Je wilt onchain een betaling doen, of een kanaal openen. Hoe bepaal je de Fees?</b></p>
           <p><a href="https://mempool.space/">mempool.space</a></p>
           <p><a target="_blank" href="https://bitcoinstickers.nl/">Bitcoinstickers</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
  Je wilt onchain een betaling doen, of een kanaal openen. Hoe bepaal je de Fees?
@@ -299,6 +310,7 @@ In deze aflevering leggen we de basisprincipes achter bitcoin uit. En waarom bit
           <p><a href="https://www.vanecketfs.nl/producten/VanEck-Vectors-Bitcoin-ETN/32/overzicht">VanEck ETN</a></p>
           <p><a href="https://www.morningstar.nl/nl/etf/snapshot/snapshot.aspx?id=0P0001B6WD">Bitcoin Tracker</a></p>
           <p><a target="_blank" href="https://bitcoinstickers.nl/">Bitcoinstickers</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
       Je hebt nu een node, maar naar wie open je kanalen? En hoe groot?
@@ -324,6 +336,7 @@ In deze aflevering leggen we de basisprincipes achter bitcoin uit. En waarom bit
           <p><a href="https://www.vanecketfs.nl/producten/VanEck-Vectors-Bitcoin-ETN/32/overzicht">VanEck ETN</a></p>
           <p><a href="https://www.morningstar.nl/nl/etf/snapshot/snapshot.aspx?id=0P0001B6WD">Bitcoin Tracker</a></p>
           <p><a target="_blank" href="https://bitcoinstickers.nl/">Bitcoinstickers</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
         Bitcoin kopen bij je reguliere broker: het kan!
@@ -350,6 +363,7 @@ In deze aflevering leggen we de basisprincipes achter bitcoin uit. En waarom bit
           <p><a href="https://unchained-capital.github.io/caravan/">Caravan</a></p>
           <p><a target="_blank" href="https://bitcoinstickers.nl/">Bitcoinstickers</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
         
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
         Multisig kan helpen om je bitcoin beter te beveiligen
@@ -379,6 +393,7 @@ Caravan
           <p><b>StoringBitcoin.info helpt je een strategie voor opslaan van je bitcoin te bepalen</b></p>
           <p><a href="https://storingbitcoin.info/">StoringBitcoin.info</a></p>
           <p><a target="_blank" href="https://bitcoinstickers.nl/">Bitcoinstickers</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
       StoringBitcoin.info helpt je een strategie voor opslaan van je bitcoin te bepalen
@@ -407,6 +422,7 @@ Caravan
   <li><a href="https://storingbitcoin.info/#/start">storingbitcoin.info</a></li>
   <li><a href="https://raw.githubusercontent.com/BeginnenMetBitcoin/beginnenmetbitcoin.github.io/master/assets/kaas.png">Kijk voor de gein eens naar deze tijdlijn van de cryptomarktleiders over de jaren.</a></li>
 </ul>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
     De Bitcoin FOMO is aan, recordhoogtes worden bereikt en je geldvrienden praten met Marnix van de podcast <strong>Beginnen met Bitcoin</strong>. We houden het luchtig en praten over wat de plek van bitcoin is voor de belegger? Oftewel, kunnen je geldvrienden er wat mee?
@@ -430,6 +446,7 @@ Caravan
           <p><a href="http://adam.curry.com/html/PC201020201106Podcas-ZV7ms5XRW9t58ntbVrTRT4WJdFKD2p.html">Aflevering podcasting2.0</a></p>
           <p><a href="http://mp3s.nashownotes.com/pc20rss.xml">Podcastfeed podcasting2.0</a></p>
           <p><a target="_blank" href="https://bitcoinstickers.nl/">Bitcoinstickers</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
         Lightning en Podcasting, een verschrikkelijk logische link
@@ -451,6 +468,7 @@ Caravan
       <description><![CDATA[
           <p><b>Uitleg over de nieuwe Lightning Pool</b></p>
           <p><a target="_blank" href="https://bitcoinstickers.nl/">Bitcoinstickers</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
 Uitleg over de nieuwe Lightning Pool
@@ -473,6 +491,7 @@ https://bitcoinstickers.nl/
       <description><![CDATA[
           <p><b>Antwoord op de vraag: Wat als ik virussen op mijn computer heb icm mijn hardware wallet?</b></p>
           <p><a target="_blank" href="https://bitcoinstickers.nl/">Donatielink</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
         Antwoord op de vraag: Wat als ik virussen op mijn computer heb icm mijn hardware wallet?
@@ -493,6 +512,7 @@ https://bitcoinstickers.nl/
       <description><![CDATA[
           <p><b>Antwoord op de vraag: Hoe veel bitcoin zijn er, komen er, en hoe controleer ik dat?</b></p>
           <p><a target="_blank" href="https://bitcoinstickers.nl/">Donatielink</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
         Antwoord op de vraag: Hoe veel bitcoin zijn er, komen er, en hoe controleer ik dat?
@@ -513,6 +533,7 @@ https://bitcoinstickers.nl/
       <description><![CDATA[
           <p><b>Antwoord op de vraag: Hoe bepaal ik hoeveel fees ik betaal voor mijn bitcointransactie?</b></p>
           <p><a target="_blank" href="https://bitcoinstickers.nl/">Donatielink</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
         Antwoord op de vraag: Hoe bepaal ik hoeveel fees ik betaal voor mijn bitcointransactie?
@@ -533,6 +554,7 @@ https://bitcoinstickers.nl/
       <description><![CDATA[
           <p><b>Antwoord op de vraag: Waarom en hoe zou ik Wasabi wallet gebruiken voor mijn hardwarewallet?</b></p>
           <p><a target="_blank" href="https://bitcoinstickers.nl/">Donatielink</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
         Antwoord op de vraag: Waarom en hoe zou ik Wasabi wallet gebruiken voor mijn hardwarewallet?
@@ -553,6 +575,7 @@ https://bitcoinstickers.nl/
       <description><![CDATA[
           <p><b>Antwoord op de vraag: Waar dient de PIN op mijn hardwarewallet voor?</b></p>
           <p><a target="_blank" href="https://bitcoinstickers.nl/">Donatielink</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
         Antwoord op de vraag: Waar dient de PIN op mijn hardwarewallet voor?
@@ -573,6 +596,7 @@ https://bitcoinstickers.nl/
       <description><![CDATA[
           <p><b>Antwoord op de vraag: Hoe belangrijk is mijn seed phrase (backupwoorden)?</b></p>
           <p><a target="_blank" href="https://bitcoinstickers.nl/">Donatielink</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
         Antwoord op de vraag: Hoe belangrijk is mijn seed phrase (backupwoorden)?
@@ -593,6 +617,7 @@ https://bitcoinstickers.nl/
       <description><![CDATA[
           <p><b>Antwoord op de vraag: Hoe maak ik gebalanceerde kanalen?</b></p>
           <p><a target="_blank" href="https://bitcoinstickers.nl/">Donatielink</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
         Antwoord op de vraag: Hoe maak ik gebalanceerde kanalen?
@@ -613,6 +638,7 @@ https://bitcoinstickers.nl/
       <description><![CDATA[
           <p><b>Antwoord op de vraag: Waarom wil ik gebalanceerde Lightningkanalen?</b></p>
           <p><a target="_blank" href="https://bitcoinstickers.nl/">Donatielink</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
         Antwoord op de vraag: Waarom wil ik gebalanceerde Lightningkanalen?
@@ -634,6 +660,7 @@ https://bitcoinstickers.nl/
           <p><b>Antwoord op de vraag: Wat is de rol van de software bij mijn hardware wallet?</b></p>
           <p><a target="_blank" href="https://bitcoinstickers.nl/">Donatielink</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
 
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
         Antwoord op de vraag: Wat is de rol van de software bij mijn hardware wallet?
@@ -658,6 +685,7 @@ https://bitcoinstickers.nl/
       <description><![CDATA[
           <p><b>Antwoord op de vraag: Staan mijn bitcoin 'op' mijn hardware wallet?</b></p>
           <p><a target="_blank" href="https://bitcoinstickers.nl/">Donatielink</a> - <a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a> - <a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a> - (niks in deze podcast is beleggingsadvies)</p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
         Antwoord op de vraag: Staan mijn bitcoin 'op' mijn hardware wallet?
@@ -685,6 +713,7 @@ https://bitcoinstickers.nl/
           <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
           <p><a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a></p>
           <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
         Het Lightning-netwerk!
@@ -732,6 +761,7 @@ https://bitcoinstickers.nl/
           <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
           <p><a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a></p>
           <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
 Wat moet je doen als je een node hebt?
@@ -791,6 +821,7 @@ Links
           <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
           <p><a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a></p>
           <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
 Hoe begin je met lightning? Wat zijn de keuzes voor wallets of nodes?
@@ -842,6 +873,7 @@ Twitter
           <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
           <p><a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a></p>
           <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
 Wat als mensen zich niet gedragen op Lightning?
@@ -882,6 +914,7 @@ Besproken scenarios
           <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
           <p><a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a></p>
           <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
 Conceptuele introductie van Lightning, met uitleg wat er op de bitcoin blockchain gebeurt.
@@ -936,6 +969,7 @@ Twitter
           <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
           <p><a target="_blank" href="https://twitter.com/beginnenbitcoin">Twitter</a></p>
           <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
 Vragen en antwoorden
@@ -990,6 +1024,7 @@ Twitter
           <p><a target="_blank" href="https://bitcoinstickers.nl/">Donatielink</a></p>
           <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
           <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p></p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
 Public Key Cryptografie en Hashing
@@ -1027,6 +1062,7 @@ Telegramgroep
           <p><a target="_blank" href="https://bitcoinstickers.nl/">Donatielink</a></p>
           <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
           <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
 Mining pools, hoe werken die, hoe blijft dat eerlijk...
@@ -1063,6 +1099,7 @@ Links
           <p><a target="_blank" href="https://bitcoinstickers.nl/">Donatielink</a></p>
           <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
           <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
 Argumenten tegen bitcoin!
@@ -1100,6 +1137,7 @@ Telegramgroep
             <p><a target="_blank" href="https://bitcoinstickers.nl/">Donatielink</a></p>
             <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
             <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
  Anonimiteit, hoe behou je die, en wat mixen?
@@ -1137,6 +1175,7 @@ Telegramgroep
             <p><a target="_blank" href="https://bitcoinstickers.nl/">Donatielink</a></p>
             <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
             <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
  Mining, wat doen miners, wat heeft dat met jouw transacties te maken?
@@ -1172,6 +1211,7 @@ Telegramgroep
             <p><a target="_blank" href="https://bitcoinstickers.nl/">Donatielink</a></p>
             <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
             <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
  Wat is een bitcoinadres, waar komt-ie vandaan?
@@ -1208,6 +1248,7 @@ Telegramgroep
             <p><a target="_blank" href="https://pay.beginnenmetbitcoin.com">Donatielink</a></p>
             <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
             <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
  Wat is een bitcointransactie, hoe werkt hij?
@@ -1245,6 +1286,7 @@ Telegramgroep
             <p><a target="_blank" href="https://pay.beginnenmetbitcoin.com">Donatielink</a></p>
             <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
             <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
 De blockchain, wat is dat, en wat zit er in blocks?
@@ -1286,6 +1328,7 @@ Telegramgroep
             <p><a target="_blank" href="https://pay.beginnenmetbitcoin.com">Donatielink</a></p>
             <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
             <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
  Wat is een bitcoin core node, wat doen nodes, en wat heb ik nodig om er een te beginnen?
@@ -1326,6 +1369,7 @@ Telegramgroep
             </ul>
             <p><a target="_blank" href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
             <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
  Hoe kom je aan bitcoin?
@@ -1368,6 +1412,7 @@ Telegramgroep
             </ul>
             <p><a href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
             <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
 Hoe gebruik je bitcoin en wat is een wallet
@@ -1407,6 +1452,7 @@ beginnenmetbitcoin.com - Niks in deze podcast is beleggingsadvies.
             <p><b><i>Ter info: vanaf aflevering 5 wordt de microfoon beter!</i></b></p>
             <p><a href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
             <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
 Hoe is bitcoin begonnen, wat geschiedenis en schaarste
@@ -1434,6 +1480,7 @@ beginnenmetbitcoin.com - Niks in deze podcast is beleggingsadvies.
             <p><b><i>Ter info: vanaf aflevering 5 wordt de microfoon beter!</i></b></p>
             <p><a href="https://t.me/beginnenmetbitcoin">Telegramgroep</a></p>
             <p><i><a href="https://beginnenmetbitcoin.com/">beginnenmetbitcoin.com</a> - Niks in deze podcast is beleggingsadvies.</i></p>
+            <h1>Een podcast van <a href="https://znip.nl/">ZNIP</a></h1>
       ]]></description>
       <itunes:summary><![CDATA[
          Introductieaflevering Beginnen met Bitcoin
